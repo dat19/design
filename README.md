@@ -11,7 +11,7 @@
 -
 
 # 1回目(4/17)
-- [ガイダンス](https://gitpitch.com/dat19/design/01)
+- [ガイダンス](https://docs.google.com/presentation/d/1zaVqeDVWHGBkl5IKj1-pAHpyRRDj8gL7F2r5p9ANK7o/)
   - 参考ブログ： [みたかシロフード. 第1回LookingGlassハッカソン参加・優勝](https://sirohood.exp.jp/20190408-2274/)
 - 環境の構築
   - Gmailアドレスの取得。学校専用のアカウントを作成する
