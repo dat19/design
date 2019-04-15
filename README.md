@@ -14,9 +14,10 @@
 - [ガイダンス](https://docs.google.com/presentation/d/1zaVqeDVWHGBkl5IKj1-pAHpyRRDj8gL7F2r5p9ANK7o/)
   - 参考ブログ： [みたかシロフード. 第1回LookingGlassハッカソン参加・優勝](https://sirohood.exp.jp/20190408-2274/)
 - 環境の構築
-  - Gmailアドレスの取得。学校専用のアカウントを作成する
-    - Gmailは、携帯番号の設定が必要です。090から始まる番号なら、+8190として設定します
-    - Gmail / Microsoft Account / GitHub / e-typing
+  - Gmailアドレスの取得。**学校の活動専用**のアカウントを作成する
+    - Gmailは、携帯番号の設定が必要です。２段階認証で必要なだけで、営業電話がかかってきたり、番号が他に漏れることはありません
+    - 090から始まる番号なら、+8190として設定します
+    - Gmail / GitHub / e-typing
   - Windowsの基本操作
   - 作業用フォルダーの作成
 - ゲームデザイン概論(1)
