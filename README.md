@@ -4,11 +4,8 @@
 # 講義予定
 - [シラバス](syllabus.md)
 
-# 参考URL
-
-# 2018年度 学生作品
--
--
+# 学生作品、ブログ一覧
+- https://tanakaedu.github.io/dat-works/index.html
 
 # 1回目(4/17)
 - [ガイダンス](https://docs.google.com/presentation/d/1zaVqeDVWHGBkl5IKj1-pAHpyRRDj8gL7F2r5p9ANK7o/)
