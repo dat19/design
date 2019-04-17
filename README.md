@@ -7,11 +7,27 @@
 # 学生作品、ブログ一覧
 - https://tanakaedu.github.io/dat-works/index.html
 
+# 2回目(4/25)
+## 講義メモ
+
+## 予定
+- 講義：アイディアの出し方
+- 演習：フリーライティングで企画を考えて、前回の企画を仕上げる
+- Googleドキュメントに取り込む
+  - 紙を撮影して、学校用のGmailに送信
+  - Gmainにログイン
+  - 写真をダウンロード
+  - ドライブへ
+  - 新しいドキュメントを作成
+  - 写真をドキュメントに貼り付ける
+  - ドキュメントを共有して、リンクを指定の場所へ貼り付け
+- 時間が許す限り、ランダムで発表
+
 # 1回目(4/17)
 ## 講義メモ
 - https://docs.google.com/document/d/1RgzMbtTLhVs-uPG5cSztC5-UFjKLRssgYLCLe1MtvJY/
 
-## 予定
+## 内容
 - [ガイダンス](https://docs.google.com/presentation/d/1zaVqeDVWHGBkl5IKj1-pAHpyRRDj8gL7F2r5p9ANK7o/)
   - 参考ブログ： [みたかシロフード. 第1回LookingGlassハッカソン参加・優勝](https://sirohood.exp.jp/20190408-2274/)
   - [制作において心がけて欲しいこと](01-note.md)
