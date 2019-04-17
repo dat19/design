@@ -33,4 +33,5 @@
     - 何をしたらいけないのか
   - 簡単な世界観など(あれば)    
   - **プレイヤーは、何を制限されるのか？　を考えるとまとめやすい**
-  
+- 参考： https://docs.google.com/drawings/d/1mGXGcm8mcXUBmP3rqVQheMDZLl3jd86qapLr7NChwjU/
+
