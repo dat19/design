@@ -11,6 +11,7 @@
 ## 講義メモ
 
 ## 予定
+- [前回の企画の発表と講評](https://drive.google.com/file/d/1OOqq_bbGhKlmkk45o_61gSsihmGNOLJq/)
 - 講義：アイディアの出し方
 - 演習：フリーライティングで企画を考えて、前回の企画を仕上げる
 - Googleドキュメントに取り込む
