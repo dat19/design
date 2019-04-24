@@ -12,7 +12,7 @@
 - [講義メモ](https://docs.google.com/document/d/1kAfX8-_TyGLNSCaSC4t5R4VafvQYte-Zx-p-pQlB-Tg/)
 
 ## 予定
-- [前回の企画の発表と講評](https://drive.google.com/file/d/1OOqq_bbGhKlmkk45o_61gSsihmGNOLJq/)
+- 前回の企画の発表と講評
 - 講義：アイディアの出し方
 
 ## 演習A：フリーライティングをやってみよう
@@ -36,9 +36,6 @@
 
 ## 企画例
 - https://docs.google.com/document/d/1b9UN7ZmZAJclmxq2OqIbZdHcjwUAEWymhrPZdBqvb4I/
-
-## 以下にURLを貼り付ける
-- https://docs.google.com/spreadsheets/d/1aqSrrNEH3E1aO3heRqqD6PhPRYi387Q1-uUDk_ZhAy0/edit?usp=sharing
 
 ## 時間があれば
 - Photoshopで画面作り
