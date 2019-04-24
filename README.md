@@ -34,6 +34,8 @@
 - タイトルを`D02演習：名前`にする(例： `D02演習：田中`)
 - サムネイルは、スマホで撮影したものをメールなどでPCに送るとよい(CamScannerがオススメ)
 
+## 企画例
+- https://docs.google.com/document/d/1b9UN7ZmZAJclmxq2OqIbZdHcjwUAEWymhrPZdBqvb4I/
 
 ## 時間があれば
 - Photoshopで画面作り
