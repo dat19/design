@@ -37,6 +37,9 @@
 ## 企画例
 - https://docs.google.com/document/d/1b9UN7ZmZAJclmxq2OqIbZdHcjwUAEWymhrPZdBqvb4I/
 
+## 以下にURLを貼り付ける
+- https://docs.google.com/spreadsheets/d/1aqSrrNEH3E1aO3heRqqD6PhPRYi387Q1-uUDk_ZhAy0/edit?usp=sharing
+
 ## 時間があれば
 - Photoshopで画面作り
 - ランダム順で演習結果を発表
