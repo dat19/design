@@ -7,7 +7,7 @@
 # 学生作品、ブログ一覧
 - https://tanakaedu.github.io/dat-works/index.html
 
-# 2回目(4/25)
+# 2回目(4/24)
 ## 講義メモ
 - [講義メモ](https://docs.google.com/document/d/1kAfX8-_TyGLNSCaSC4t5R4VafvQYte-Zx-p-pQlB-Tg/)
 
