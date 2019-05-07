@@ -10,13 +10,40 @@
 # 3回目(5/8)
 
 ## 形のデザイン
-- 
+- [スライド](https://docs.google.com/presentation/d/1KXIaJ5pP9eDidFd0lnZxqsP7nff-rfe1w0C45GkORjM/)
 
 ## 参考URL
-- 
+- [VOODOO](https://play.google.com/store/apps/developer?id=VOODOO)
+  - https://play.google.com/store/apps/details?id=com.neonplay.casualrollersplat2
+  - https://play.google.com/store/apps/details?id=com.h8games.helixjump
+  - https://play.google.com/store/apps/details?id=io.voodoo.paper2
+  - https://play.google.com/store/apps/details?id=com.bigframes.color_road
+- その他
+  - https://play.google.com/store/apps/details?id=com.crazylabs.tricky.traps.game
+  - https://play.google.com/store/apps/details?id=com.azurgames.stackball
+  - https://play.google.com/store/apps/details?id=com.gamestart.fill
+  - https://play.google.com/store/apps/details?id=com.colorup.game
 
+## 演習
+### 準備
+- Googleにサインインしたのち、Googleドライブを開いて、新規からGoogle図形描画を選択
+- タイトルを「03氏名」に変更(例：03田中)
+- 以下の設問に従って形を描く
 
-形のデザイン / 演習：形を活かしてカジュアルゲームの画面の作成
+### 抽象化：円や四角、三角形といった図形を組み合わせてキャラクターを描いてみよう
+- モデルのキャラクターを自由に決めて、スクリーンショットなどを図形描画ツールに貼り付ける
+- 図形ツールを使って、そのキャラクターを徹底的に抽象化した形を描く(図形、色設定など自由に使ってよい)
+- ポイント：元のキャラクターを連想できる限界まで形を抽象化する
+
+### 記号：スマホゲームのUIをデザインしてみよう
+- ゲーム開始を表す記号
+- ランキングを表す記号
+- タイトルに戻るを表す記号
+
+### 点、線、面：図形と文字を組み合わせて、ゲームタイトルを作ってみよう
+
+### 黄金比と白銀比を組み合わせて図形を考えてみる
+
 
 # 2回目(4/24)
 ## 講義メモ
