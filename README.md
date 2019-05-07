@@ -11,8 +11,9 @@
 
 ## 形のデザイン
 - [スライド](https://docs.google.com/presentation/d/1KXIaJ5pP9eDidFd0lnZxqsP7nff-rfe1w0C45GkORjM/)
+- 形だけで面白いものは作れる
 
-## 参考URL
+## 参考作品
 - [VOODOO](https://play.google.com/store/apps/developer?id=VOODOO)
   - https://play.google.com/store/apps/details?id=com.neonplay.casualrollersplat2
   - https://play.google.com/store/apps/details?id=com.h8games.helixjump
@@ -24,25 +25,43 @@
   - https://play.google.com/store/apps/details?id=com.gamestart.fill
   - https://play.google.com/store/apps/details?id=com.colorup.game
 
-## 演習
-### 準備
-- Googleにサインインしたのち、Googleドライブを開いて、新規からGoogle図形描画を選択
-- タイトルを「03氏名」に変更(例：03田中)
-- 以下の設問に従って形を描く
+## 演習：基本図形を使ってカジュアルゲームの画面イメージを作ってみよう
+- [演習手順](https://docs.google.com/document/d/1xV3s3uG9jT0wCEfQEid83Pc5nBC7pLg8HZg0V8UyJI4/)
 
-### 抽象化：円や四角、三角形といった図形を組み合わせてキャラクターを描いてみよう
-- モデルのキャラクターを自由に決めて、スクリーンショットなどを図形描画ツールに貼り付ける
+### 利用するツール
+- Photoshop
+- Unity
+
+### 抽象化：円や四角、三角形といった図形を組み合わせてキャラクターを作ってみよう
+- 抽象化するキャラクターを選ぶ(ピカチュウでもアイアンマンでもなんでもよい)
 - 図形ツールを使って、そのキャラクターを徹底的に抽象化した形を描く(図形、色設定など自由に使ってよい)
 - ポイント：元のキャラクターを連想できる限界まで形を抽象化する
+- Photoshopの画像を画面に見立てて、丁度よいサイズにキャラクターの大きさを設定する
 
-### 記号：スマホゲームのUIをデザインしてみよう
-- ゲーム開始を表す記号
-- ランキングを表す記号
-- タイトルに戻るを表す記号
+### 敵や障害物、地面などを作る
+- 上記のキャラクターが映えるようなその他の素材を描く
+- これも基本図形で構成してみよう
 
-### 点、線、面：図形と文字を組み合わせて、ゲームタイトルを作ってみよう
+### キーワード
+- 抽象化
+- 記号
+  - アイコン
+    - 対象の形を抽象化した記号
+  - インデックス
+    - 対象を連想させる記号
+  - シンボル
+    - ！や？など、共通認識がある記号
+- モノグラム
+- 点、線、面
+- 幾何学形態の利用
+  - 図形間の距離、大きさ
+  - 図形の形状、配置
+  - 黄金比、白銀比
+- 図と地、ゲシュタルト心理学、プレグナンツの法則
+- 錯視
 
-### 黄金比と白銀比を組み合わせて図形を考えてみる
+### 提出
+- 以上できたら、GitHubにコミットして、PrivateのままPublishして提出せよ
 
 
 # 2回目(4/24)
