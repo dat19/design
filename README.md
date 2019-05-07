@@ -7,6 +7,17 @@
 # 学生作品、ブログ一覧
 - https://tanakaedu.github.io/dat-works/index.html
 
+# 3回目(5/8)
+
+## 形のデザイン
+- 
+
+## 参考URL
+- 
+
+
+形のデザイン / 演習：形を活かしてカジュアルゲームの画面の作成
+
 # 2回目(4/24)
 ## 講義メモ
 - [講義メモ](https://docs.google.com/document/d/1kAfX8-_TyGLNSCaSC4t5R4VafvQYte-Zx-p-pQlB-Tg/)
