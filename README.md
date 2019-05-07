@@ -61,7 +61,7 @@
 - 錯視
 
 ### 提出
-- 以上できたら、GitHubにコミットして、PrivateのままPublishして提出せよ
+- 完成したら、GitHub Desktopでコミットして、Publishすれば提出完了
 
 
 # 2回目(4/24)
