@@ -1,11 +1,45 @@
 # ゲームデザイン実習
-2018年度 デジタルアーツ東京 ゲームデザイン実習用リポジトリー。
+2019年度 デジタルアーツ東京 ゲームデザイン実習用リポジトリー。
 
 # 講義予定
 - [シラバス](syllabus.md)
 
 # 学生作品、ブログ一覧
 - https://tanakaedu.github.io/dat-works/index.html
+
+# 4回目(5/15)
+## 色のデザイン
+- [スライド](https://docs.google.com/presentation/d/1gEUHIsrgjsP56q3lISY9zJV6bYwSj_6u1AhPJhFu3_I/)
+  - [図]()
+
+## 演習準備
+### Unityのプロジェクト作成とGitHubへの登録
+- プロジェクト名を`ensyu0515`、**2D**でUnityプロジェクトを作成
+- [UnityプロジェクトをGitHubに登録する手順](https://github.com/dat19/gp1/github-unity.md)に従って、作成したプロジェクトをGitHubに登録
+- [こちら](https://docs.google.com/spreadsheets/d/1Ky6bU27vJy_jl4-Yu3UiaHj-ZuHUPcQHXOVgjsRn-Mc/)に共有用URLを報告
+
+### 背景色の設定
+- *Main Camera*をクリックして選択
+- *Background*の右の四角をクリック
+- 黒にする
+- xをクリックして、カラーウィンドウを閉じる
+
+### 色見本の作成
+- *Hierarchy*ウィンドウの*Create*から、*3D Object* > *Quad*を選択
+- *Project*ウィンドウの*Create*をから、*Material*を作成して、Enterキーを押す
+- 作成した*New Material*をドラッグして、*Quad*にドロップ
+- *New Material*をクリックして選択したら、*Shader*のコンボボックスをクリックして、*Unlit* > *Color*を選択
+
+以上で、色を直接設定できる正方形が作れる。
+
+## 演習
+- SpriteとMaterialを作成して、作成したマテリアルをSpriteにアタッチしておく
+- RGBで色を作る
+- HSVで色を作る(60ごと6分割)
+- Quadを複数作成して、画面の半分のサイズにする
+- 色を作って、2色を並べて観察する
+- 色相の違い、明るさの違い、彩度の違い
+
 
 # 3回目(5/8)
 
