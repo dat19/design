@@ -42,8 +42,9 @@
 - Main Cameraの背景色とQuadの組み合わせを色々と試してみよう
 
 ## UnityのUI(uGUI)
-- TextMesh Proの設定
-- 画面を構成
+- Canvas
+- ボタンの設置
+- 文字の表示
 
 ## 演習2
 - 色の組み合わせを考えて、Photoshopで描いた図形を配置してゲーム画面を作る
