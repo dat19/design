@@ -9,8 +9,8 @@
 
 # 4回目(5/15)
 ## 色のデザイン
-- [スライド](https://docs.google.com/presentation/d/1gEUHIsrgjsP56q3lISY9zJV6bYwSj_6u1AhPJhFu3_I/)
-  - [図]()
+- [スライド](https://docs.google.com/presentation/d/1GV5nQ-GfGjENsI4oCyxYdMXtQx33oVmCWCDr1TLNRFc/)
+  - [図](https://docs.google.com/presentation/d/1yUxECZaxF6bPMRFexlsmcFinY9_QxViAB6dxhFsYSNc/)
 
 ## 演習準備
 ### Unityのプロジェクト作成とGitHubへの登録
