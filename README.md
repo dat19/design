@@ -18,7 +18,7 @@
 - [Ctrl]+[S]キーを押して、新しいフォルダーを作って、`Scenes`という名前にして、そのフォルダーをダブルクリックして開く
 - ファイル名を`color`にして保存する
 - *File*メニューから*Save Project*を選択して、プロジェクトを保存
-- [UnityプロジェクトをGitHubに登録する手順](https://github.com/dat19/gp1/github-unity.md)に従って、作成したプロジェクトをGitHubに登録
+- [UnityプロジェクトをGitHubに登録する手順](https://github.com/dat19/gp1/blob/master/github-unity.md)に従って、作成したプロジェクトをGitHubに登録
 - [こちら](https://docs.google.com/spreadsheets/d/1Ky6bU27vJy_jl4-Yu3UiaHj-ZuHUPcQHXOVgjsRn-Mc/)に共有用URLを報告
 
 ### 背景色の設定
