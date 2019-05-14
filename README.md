@@ -32,8 +32,11 @@
 - *Project*ウィンドウの*Create*をから、*Material*を作成して、Enterキーを押す
 - 作成した*New Material*をドラッグして、*Quad*にドロップ
 - *New Material*をクリックして選択したら、*Shader*のコンボボックスをクリックして、*Unlit* > *Color*を選択
+- *Inspector*ウィンドウの*Transform*欄の*Scale*の*X*と*Y*を`5`ぐらいにして少し大きくする
 
 以上で、色を直接設定できる正方形が作れる。
+
+ここまでできたら、一度保存をして、GitHubにコミット、プッシュしておく([手順](https://github.com/dat19/gp1/blob/master/github-unity.md#%E5%A4%89%E6%9B%B4%E3%81%97%E3%81%9F%E3%82%82%E3%81%AE%E3%82%92%E5%8F%8D%E6%98%A0%E3%81%95%E3%81%9B%E3%82%8B%E6%89%8B%E9%A0%86))。
 
 ## 演習1
 - SpriteとMaterialを作成して、作成したマテリアルをSpriteにアタッチしておく
