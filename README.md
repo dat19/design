@@ -46,6 +46,7 @@
 - Main Cameraの背景色とQuadの組み合わせを色々と試してみよう
 
 ## UnityのUI(uGUI)
+- [作業手順](https://docs.google.com/document/d/1oUDdWBGk2XUjAyt7RLHL2a1shBwrZp-ghrOb4wzGddk/)
 - Canvas
 - ボタンの設置
 - 文字の表示
