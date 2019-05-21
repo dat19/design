@@ -7,6 +7,22 @@
 # 学生作品、ブログ一覧
 - https://tanakaedu.github.io/dat-works/index.html
 
+# 5回目(5/22)
+## 前回の課題結果(出席者16名)
+- GitHubで提出 14名
+- 画面作成 12名
+- ボタン実装 11名
+
+## 文字のデザイン
+- [スライド](https://docs.google.com/presentation/d/1dFVzipcLt6cO_kMWit4C5x9PiEObst5L-PrrYCYgtL8/)
+
+## フリーフォントの探し方とUnityでの活用方法
+- [coliss. 2019年用、日本語のフリーフォント377種類のまとめ -商用サイトだけでなく紙や同人誌などの利用も明記](https://coliss.com/articles/freebies/japanese-free-fonts-for-2019.html)
+- [@thorikawa. UnityのText Mesh Proアセットで日本語を使うときの手順](https://qiita.com/thorikawa/items/03b65b75fa9461b53efd)
+
+## 演習：タイトル画面やゲーム画面の作成
+
+
 # 4回目(5/15)
 ## 色のデザイン
 - [スライド](https://docs.google.com/presentation/d/1GV5nQ-GfGjENsI4oCyxYdMXtQx33oVmCWCDr1TLNRFc/)
@@ -51,9 +67,6 @@
 - ボタンの設置
 - 文字の表示
 
-## 演習2
-- 色の組み合わせを考えて、Photoshopで描いた図形を配置してゲーム画面を作る
-- TextMesh Proでスコアなどの文字を配置
 
 # 3回目(5/8)
 
