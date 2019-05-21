@@ -8,6 +8,9 @@
 - https://tanakaedu.github.io/dat-works/index.html
 
 # 5回目(5/22)
+## 話題
+- [Anna Mészáros. デザイナーではない人がデザインする上で大切な4つの基本原則](https://gigazine.net/news/20190518-fundamental-design-principles/)
+
 ## 前回の課題結果(出席者16名)
 - GitHubで提出 14名
 - 画面作成 12名
