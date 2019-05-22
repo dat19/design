@@ -21,6 +21,7 @@
 
 ## フリーフォントの探し方とUnityでの活用方法
 - [coliss. 2019年用、日本語のフリーフォント377種類のまとめ -商用サイトだけでなく紙や同人誌などの利用も明記](https://coliss.com/articles/freebies/japanese-free-fonts-for-2019.html)
+  - タイトル用と本文用の2つのフォントを見つけて、リンクをメモ帳などにとっておく
 - [@thorikawa. UnityのText Mesh Proアセットで日本語を使うときの手順](https://qiita.com/thorikawa/items/03b65b75fa9461b53efd)
 
 ## 参考
