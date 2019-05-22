@@ -7,6 +7,17 @@
 # 学生作品、ブログ一覧
 - https://tanakaedu.github.io/dat-works/index.html
 
+# 6回目(5/29)
+## 前回の課題結果(出席者  名)
+
+## 写真のデザイン
+- スライド
+- Unityを使った写真的エフェクト
+
+## 演習
+- アセットストアから3Dのワールドをダウンロード
+- 3D画面をポストプロセスで仕上げる
+
 # 5回目(5/22)
 ## 話題
 - [Anna Mészáros. デザイナーではない人がデザインする上で大切な4つの基本原則](https://gigazine.net/news/20190518-fundamental-design-principles/)
