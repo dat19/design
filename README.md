@@ -24,6 +24,7 @@
   - タイトル用と本文用の2つのフォントを見つけて、リンクをメモ帳などにとっておく
 - [提出用URL](https://docs.google.com/spreadsheets/d/1Ky6bU27vJy_jl4-Yu3UiaHj-ZuHUPcQHXOVgjsRn-Mc/)
 - [@thorikawa. UnityのText Mesh Proアセットで日本語を使うときの手順](https://qiita.com/thorikawa/items/03b65b75fa9461b53efd)
+- [手順](https://docs.google.com/document/d/1V8witriNqNILYd5tdnEE9pnvZokuHfTY3oJEBDtgAo0/)
 
 ## 参考
 - [PHOTOSHOPVIP. 現役デザイナーが教える！完璧な書体を決める10個の黄金ルールまとめ](http://photoshopvip.net/105840?utm_content=bufferf79a8&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)
