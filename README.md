@@ -8,7 +8,9 @@
 - https://tanakaedu.github.io/dat-works/index.html
 
 # 6回目(5/29)
-## 前回の課題結果(出席者  名)
+## 前回の課題結果(出席者17名)
+- GitHubで提出 15名
+- TextMeshProを問題なく実装 6名
 
 ## 写真のデザイン
 - スライド
