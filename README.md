@@ -37,6 +37,8 @@
 ## 演習
 - アセットストアから3Dのワールドをダウンロード
 - 3D画面をポストプロセスで仕上げる
+  - [PostProcessingStack v2リポジトリー](https://github.com/Unity-Technologies/PostProcessing/releases)
+  - [設定手順](http://am1tanaka.hatenablog.com/entry/2018/05/19/172121)
 - できたらこちらの[手順](https://github.com/dat19/gp1/blob/master/github-unity.md#%E5%A4%89%E6%9B%B4%E3%81%97%E3%81%9F%E3%82%82%E3%81%AE%E3%82%92%E5%8F%8D%E6%98%A0%E3%81%95%E3%81%9B%E3%82%8B%E6%89%8B%E9%A0%86)を参考に、作成したプロジェクトをGitHubにプッシュする
 
 
