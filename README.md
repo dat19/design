@@ -20,6 +20,9 @@
   - [図](https://am1.jp/dat/design/design6-photo-fig.pdf)
 - Unityを使った写真的エフェクト-Post Processing Stackの利用
 
+## 作業手順
+- https://docs.google.com/document/d/1MmqHpj0_ja1RLz2D5knnFMBqSDyn0INLEEM1omUhW7A/
+
 ## 演習準備
 ### Unityのプロジェクト作成とGitHubへの登録
 - プロジェクト名を`ensyu0529`、**3D**でUnityプロジェクトを作成
