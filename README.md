@@ -50,7 +50,7 @@
 # 4回目(5/15)
 ## 色のデザイン
 - [スライド](https://am1.jp/dat/design/design4-color.pdf)
-  - [図](- [スライド](https://am1.jp/dat/design/design4-color-fig.pdf)
+  - [図](https://am1.jp/dat/design/design4-color-fig.pdf)
 
 ## 演習準備
 ### Unityのプロジェクト作成とGitHubへの登録
