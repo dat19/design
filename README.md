@@ -17,9 +17,22 @@
   - [図](https://am1.jp/dat/design/design6-photo-fig.pdf)
 - Unityを使った写真的エフェクト-Post Processing Stackの利用
 
+## 演習準備
+### Unityのプロジェクト作成とGitHubへの登録
+- プロジェクト名を`ensyu0529`、**3D**でUnityプロジェクトを作成
+- [Ctrl]+[S]キーを押して保存ダイアログが開いたら以下を行う
+  - 新しいフォルダーを作って、`Scenes`という名前にする
+  - 作成した`Scenes`フォルダーをダブルクリックして開く
+  - ファイル名を`pps`にして保存する
+- *File*メニューから*Save Project*を選択して、プロジェクトを保存
+- [UnityプロジェクトをGitHubに登録する手順](https://github.com/dat19/gp1/blob/master/github-unity.md)に従って、作成したプロジェクトをGitHubに登録
+- [こちら](https://docs.google.com/spreadsheets/d/1Ky6bU27vJy_jl4-Yu3UiaHj-ZuHUPcQHXOVgjsRn-Mc/)に共有用URLを報告
+
 ## 演習
 - アセットストアから3Dのワールドをダウンロード
 - 3D画面をポストプロセスで仕上げる
+- できたらこちらの[手順](https://github.com/dat19/gp1/blob/master/github-unity.md#%E5%A4%89%E6%9B%B4%E3%81%97%E3%81%9F%E3%82%82%E3%81%AE%E3%82%92%E5%8F%8D%E6%98%A0%E3%81%95%E3%81%9B%E3%82%8B%E6%89%8B%E9%A0%86))を参考に、作成したプロジェクトをGitHubにプッシュする
+
 
 # 5回目(5/22)
 ## 話題
