@@ -13,8 +13,9 @@
 - TextMeshProを問題なく実装 6名
 
 ## 写真のデザイン
-- スライド
-- Unityを使った写真的エフェクト
+- [スライド](https://am1.jp/dat/design/design6-photo.pdf)
+  - [図](https://am1.jp/dat/design/design6-photo.pdf)
+- Unityを使った写真的エフェクト-Post Processing Stackの利用
 
 ## 演習
 - アセットストアから3Dのワールドをダウンロード
@@ -30,7 +31,7 @@
 - ボタン実装 11名
 
 ## 文字のデザイン
-- [スライド](https://docs.google.com/presentation/d/1dFVzipcLt6cO_kMWit4C5x9PiEObst5L-PrrYCYgtL8/)
+- [スライド](https://am1.jp/dat/design/design5-font.pdf)
 
 ## フリーフォントの探し方とUnityでの活用方法
 - [coliss. 2019年用、日本語のフリーフォント377種類のまとめ -商用サイトだけでなく紙や同人誌などの利用も明記](https://coliss.com/articles/freebies/japanese-free-fonts-for-2019.html)
@@ -48,8 +49,8 @@
 
 # 4回目(5/15)
 ## 色のデザイン
-- [スライド](https://docs.google.com/presentation/d/1GV5nQ-GfGjENsI4oCyxYdMXtQx33oVmCWCDr1TLNRFc/)
-  - [図](https://docs.google.com/presentation/d/1yUxECZaxF6bPMRFexlsmcFinY9_QxViAB6dxhFsYSNc/)
+- [スライド](https://am1.jp/dat/design/design4-color.pdf)
+  - [図](- [スライド](https://am1.jp/dat/design/design4-color-fig.pdf)
 
 ## 演習準備
 ### Unityのプロジェクト作成とGitHubへの登録
@@ -94,7 +95,7 @@
 # 3回目(5/8)
 
 ## 形のデザイン
-- [スライド](https://docs.google.com/presentation/d/1KXIaJ5pP9eDidFd0lnZxqsP7nff-rfe1w0C45GkORjM/)
+- [スライド](https://am1.jp/dat/design/design3-shape.pdf)
 - 形だけで面白いものは作れる
 
 ## 参考作品
