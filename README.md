@@ -14,7 +14,7 @@
 
 ## 写真のデザイン
 - [スライド](https://am1.jp/dat/design/design6-photo.pdf)
-  - [図](https://am1.jp/dat/design/design6-photo.pdf)
+  - [図](https://am1.jp/dat/design/design6-photo-fig.pdf)
 - Unityを使った写真的エフェクト-Post Processing Stackの利用
 
 ## 演習
