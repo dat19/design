@@ -47,6 +47,10 @@
 - TextMesh Proのおさらい
 - ゲームっぽい画面を作ってみる
 
+## ライティングについて参考
+- [テラシュールブログ. Lightmap](http://tsubakit1.hateblo.jp/archive/category/Lightmap)
+- [テラシュールブログ. 画面効果](http://tsubakit1.hateblo.jp/archive/category/%E7%94%BB%E9%9D%A2%E5%8A%B9%E6%9E%9C)
+
 # 5回目(5/22)
 ## 話題
 - [Anna Mészáros. デザイナーではない人がデザインする上で大切な4つの基本原則](https://gigazine.net/news/20190518-fundamental-design-principles/)
