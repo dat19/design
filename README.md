@@ -7,10 +7,19 @@
 # 学生作品、ブログ一覧
 - https://tanakaedu.github.io/dat-works/index.html
 
-# 6回目(5/29)
+# 7回目(6/5)
 ## 話題
 - [日本ゲーム大賞U18部門 予選大会 6/9](https://u18.awards.cesa.or.jp/)
 
+## 前回の課題結果(出席者??名)
+- GitHubで提出 ??名
+- パーフェクト ??名
+
+
+## 著作権概論
+- https://docs.google.com/document/d/15zRG0hcf9OU3TFoJ5vZL43AGPKCqewpD7KS_QYwntaA/
+
+# 6回目(5/29)
 ## 前回の課題結果(出席者17名)
 - GitHubで提出 15名
 - TextMeshProを問題なく実装 6名
