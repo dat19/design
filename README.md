@@ -35,6 +35,9 @@
 - [こちら](https://docs.google.com/spreadsheets/d/1Ky6bU27vJy_jl4-Yu3UiaHj-ZuHUPcQHXOVgjsRn-Mc/)に共有用URLを報告
 
 ## 演習
+- コーネルボックスを作る
+  - [monobook.org. コーネルボックスとは](https://monobook.org/wiki/%E3%82%B3%E3%83%BC%E3%83%8D%E3%83%AB%E3%83%9C%E3%83%83%E3%82%AF%E3%82%B9)
+  - [@thiroaki. コーネルボックスをつくってあそぼ](https://qiita.com/thiroaki/items/7a9213150b15810137f2)
 - SphereやPlane、ボックスなどを配置して着色
 - 様々なライトを試す
 - カメラの画角(Field of view = 視野角)
@@ -48,6 +51,7 @@
 - ゲームっぽい画面を作ってみる
 
 ## ライティングについて参考
+- [Unity公式. ライティングの手法](https://docs.unity3d.com/ja/current/Manual/BestPracticeMakingBelievableVisuals3.html)
 - [テラシュールブログ. Lightmap](http://tsubakit1.hateblo.jp/archive/category/Lightmap)
 - [テラシュールブログ. 画面効果](http://tsubakit1.hateblo.jp/archive/category/%E7%94%BB%E9%9D%A2%E5%8A%B9%E6%9E%9C)
 
