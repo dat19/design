@@ -32,6 +32,23 @@
 - BGM
 - 効果音
 
+## 一枚絵を3Dに読み込む手順
+- 素材のjpgやpngファイルを、Projectウィンドウにドラッグ&ドロップ
+- HierarchyウィンドウのCreateボタンをクリックして、3D Object > Quadを選択して、四角を作成
+- ProjectウィンドウのCreateボタンをクリックして、Materialを作成して、BGなどの画像の名前にする
+- InspectorウィンドウのAlbedoの左の四角の枠に、画像ファイルをドラッグ&ドロップ
+- Projectウィンドウの今回の例ならBGマテリアルをドラッグして、HierarchyウィンドウのQuadにドロップ
+- あとは、QuadのTransformのScaleを調整して、好みのサイズにする
+
+### ちょっと画像が白いのを直す
+シェーダーをライトの影響を受けないやつに変更。
+
+- Projectウィンドウからマテリアルをクリックして選択
+- shader欄をクリックして、Unlit > Textureに変更
+
+以上で、ライトの影響を受けずに、テクスチャーの色がそのまま反映される。
+
+
 ## 参考URL
 - https://opengameart.org/
 - http://pixelgameart.org/web/
