@@ -7,6 +7,32 @@
 # 学生作品、ブログ一覧
 - https://tanakaedu.github.io/dat-works/index.html
 
+# 参考URL
+  - [コガネブログ. 【Unity】GitHub で公開されていて無料で使用できるおすすめのアセットを600個紹介](http://baba-s.hatenablog.com/entry/2019/01/15/080000)
+
+# 8回目(6/12)
+## 前回の振り返り
+- 知的財産権について
+  - 産業財産権と著作権
+- 著作物を使う時の注意
+- ゲームに使えそうなアセットを探して、URLを収集
+
+## 話題
+- [7/1 0:00より、1週間ゲームジャム開催](https://unityroom.com/unity1weeks)
+
+## 予定
+- パーティクルの使い方
+  - [パーティクルのマニュアル](https://docs.unity3d.com/ja/current/Manual/class-ParticleSystem.html)
+  - [Unity公式パーティクル](https://assetstore.unity.com/packages/essentials/tutorial-projects/unity-particle-pack-127325)
+  - [アセットストアのパーティクル](https://assetstore.unity.com/?category=vfx%2Fparticles&free=true&orderBy=1)
+- 音の再生
+  - BGM/SEの鳴らし方
+- アセットストア以外での便利なアセット
+  - [コガネブログ. 【Unity】GitHub で公開されていて無料で使用できるおすすめのアセットを600個紹介](http://baba-s.hatenablog.com/entry/2019/01/15/080000)
+
+## まとめと演習
+
+
 # 7回目(6/5)
 ## 話題
 - [日本ゲーム大賞U18部門 予選大会 6/9](https://u18.awards.cesa.or.jp/)
