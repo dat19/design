@@ -8,7 +8,18 @@
 - https://tanakaedu.github.io/dat-works/index.html
 
 # 参考URL
-  - [コガネブログ. 【Unity】GitHub で公開されていて無料で使用できるおすすめのアセットを600個紹介](http://baba-s.hatenablog.com/entry/2019/01/15/080000)
+- [コガネブログ. 【Unity】GitHub で公開されていて無料で使用できるおすすめのアセットを600個紹介](http://baba-s.hatenablog.com/entry/2019/01/15/080000)
+- https://opengameart.org/
+- http://pixelgameart.org/web/
+- http://kenney.nl
+- [Sketchfab. 3D作品をWeb上で公開](https://sketchfab.com/)
+- [Turbo Squide. 3Dモデル配布・販売サイト](https://www.turbosquid.com)
+- [Hightend3D. 3Dモデル配布・販売サイト](https://www.highend3d.com)
+- [テクスチャー関連を公開している](https://www.textures.com)
+- [cc0textures.com. CC0のPBRテクスチャー素材集](https://cc0textures.com/home)
+- [3dtextures.me CC0のPBRテクスチャー素材集](https://3dtextures.me/)
+- [cgbookcase.com CC0のテクスチャー](https://www.cgbookcase.com/)
+
 
 # 8回目(6/12)
 ## 前回の振り返り
@@ -74,18 +85,6 @@
 
 以上で、ライトの影響を受けずに、テクスチャーの色がそのまま反映される。
 
-
-## 参考URL
-- https://opengameart.org/
-- http://pixelgameart.org/web/
-- http://kenney.nl
-- [Sketchfab. 3D作品をWeb上で公開](https://sketchfab.com/)
-- [Turbo Squide. 3Dモデル配布・販売サイト](https://www.turbosquid.com)
-- [Hightend3D. 3Dモデル配布・販売サイト](https://www.highend3d.com)
-- [テクスチャー関連を公開している](https://www.textures.com)
-- [cc0textures.com. CC0のPBRテクスチャー素材集]https://cc0textures.com/home
-- [3dtextures.me CC0のPBRテクスチャー素材集](https://3dtextures.me/)
-- [cgbookcase.com CC0のテクスチャー](https://www.cgbookcase.com/)
 
 
 ## 提出手順
