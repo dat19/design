@@ -43,11 +43,15 @@
   - [Unity公式パーティクル](https://assetstore.unity.com/packages/essentials/tutorial-projects/unity-particle-pack-127325)
   - [アセットストアのパーティクル](https://assetstore.unity.com/?category=vfx%2Fparticles&free=true&orderBy=1)
 - 音の再生
-  - BGM/SEの鳴らし方
+  - BGMを2種類、効果音を3種類用意する
+  - http://am1tanaka.hatenablog.com/entry/2019/06/11/230541 を参考に、BGMと効果音が3種類鳴るようにしてみる
 - アセットストア以外での便利なアセット
   - [コガネブログ. 【Unity】GitHub で公開されていて無料で使用できるおすすめのアセットを600個紹介](http://baba-s.hatenablog.com/entry/2019/01/15/080000)
 
-## まとめと演習
+## 時間が余ったら
+- 前回探したアセットを組み合わせて、よけとるのモック画面を作ってみる
+- パーティクルを設定する
+- BGMと効果音が鳴るようにする
 
 
 # 7回目(6/5)
