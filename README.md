@@ -20,6 +20,27 @@
 - [3dtextures.me CC0のPBRテクスチャー素材集](https://3dtextures.me/)
 - [cgbookcase.com CC0のテクスチャー](https://www.cgbookcase.com/)
 
+# 9回目(6/19)
+
+## 予定
+- 音の再生
+  - BGMを2種類、効果音を3種類用意する
+  - http://am1tanaka.hatenablog.com/entry/2019/06/11/230541 を参考に、BGMと効果音が3種類鳴るようにしてみる
+- アニメーション作成
+  - アニメーターを割り当てる
+  - アニメーションクリップを作成
+  - 場所、方向、大きさを変化させる
+  - 状態遷移
+  - 既存のアニメを利用する
+
+## 時間が余ったら
+- 円や四角といったシンプルな形状を面白く見せるアニメーションを作成(10回目から移動)
+- アセットストア以外での便利なアセット
+  - [コガネブログ. 【Unity】GitHub で公開されていて無料で使用できるおすすめのアセットを600個紹介](http://baba-s.hatenablog.com/entry/2019/01/15/080000)
+- 前回探したアセットを組み合わせて、よけとるのモック画面を作ってみる
+- パーティクルを設定する
+- BGMと効果音が鳴るようにする
+
 
 # 8回目(6/12)
 ## 前回の課題結果(出席者14名)
@@ -37,22 +58,12 @@
 ## 話題
 - [7/1 0:00より、1週間ゲームジャム開催](https://unityroom.com/unity1weeks)
 
-## 予定
+## 内容
 - パーティクルの使い方
   - [作業手順](https://docs.google.com/document/d/1ZoIvC78NmTwWRuBSsaTBIs_eh5e7hU1KdorHuPY8_pM/)
   - [パーティクルのマニュアル](https://docs.unity3d.com/ja/current/Manual/class-ParticleSystem.html)
   - [Unity公式パーティクル](https://assetstore.unity.com/packages/essentials/tutorial-projects/unity-particle-pack-127325)
   - [アセットストアのパーティクル](https://assetstore.unity.com/?category=vfx%2Fparticles&free=true&orderBy=1)
-- 音の再生
-  - BGMを2種類、効果音を3種類用意する
-  - http://am1tanaka.hatenablog.com/entry/2019/06/11/230541 を参考に、BGMと効果音が3種類鳴るようにしてみる
-- アセットストア以外での便利なアセット
-  - [コガネブログ. 【Unity】GitHub で公開されていて無料で使用できるおすすめのアセットを600個紹介](http://baba-s.hatenablog.com/entry/2019/01/15/080000)
-
-## 時間が余ったら
-- 前回探したアセットを組み合わせて、よけとるのモック画面を作ってみる
-- パーティクルを設定する
-- BGMと効果音が鳴るようにする
 
 
 # 7回目(6/5)
