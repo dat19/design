@@ -39,6 +39,7 @@
 
 ## 予定
 - パーティクルの使い方
+  - [作業手順](https://docs.google.com/document/d/1ZoIvC78NmTwWRuBSsaTBIs_eh5e7hU1KdorHuPY8_pM/)
   - [パーティクルのマニュアル](https://docs.unity3d.com/ja/current/Manual/class-ParticleSystem.html)
   - [Unity公式パーティクル](https://assetstore.unity.com/packages/essentials/tutorial-projects/unity-particle-pack-127325)
   - [アセットストアのパーティクル](https://assetstore.unity.com/?category=vfx%2Fparticles&free=true&orderBy=1)
