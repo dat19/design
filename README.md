@@ -22,6 +22,10 @@
 
 # 9回目(6/19)
 
+## 話題
+- [NVIDIA. AIによる画像生成 GauGANのデモ](https://www.nvidia.com/en-us/research/ai-playground/)
+  - https://www.youtube.com/watch?v=p5U4NgVGAwg
+
 ## 予定
 - 音の再生
   - BGMを2種類、効果音を3種類用意する
