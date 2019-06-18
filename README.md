@@ -22,22 +22,39 @@
 
 # 9回目(6/19)
 
-## 予定
-- 音の再生
-  - BGMを2種類、効果音を3種類用意する
-  - 音の切り取りなど
-    - https://mp3cut.net/ja/
-  - http://am1tanaka.hatenablog.com/entry/2019/06/11/230541 を参考に、BGMと効果音が3種類鳴るようにしてみる
-- アニメーション作成
-  - アニメーターを割り当てる
-  - アニメーションクリップを作成
-  - 場所、方向、大きさを変化させる
-  - 状態遷移
-  - 既存のアニメを利用する
-
 ## 話題
 - [NVIDIA. AIによる画像生成 GauGANのデモ](https://www.nvidia.com/en-us/research/ai-playground/)
   - https://www.youtube.com/watch?v=p5U4NgVGAwg
+
+## 予定
+### 音の再生
+- BGMを2種類、効果音を3種類用意する
+
+### 準備
+- プロジェクト名を`ensyu0619`、**3D**でUnityプロジェクトを作成
+- [Ctrl]+[S]キーを押して保存ダイアログが開いたら以下を行う
+  - 新しいフォルダーを作って、`Scenes`という名前にする
+  - 作成した`Scenes`フォルダーをダブルクリックして開く
+  - ファイル名を`Audio`にして保存する
+- *File*メニューから*Save Project*を選択して、プロジェクトを保存
+- [UnityプロジェクトをGitHubに登録する手順](https://github.com/dat19/gp1/blob/master/github-unity.md)に従って、作成したプロジェクトをGitHubに登録
+- [こちら](https://docs.google.com/spreadsheets/d/1Ky6bU27vJy_jl4-Yu3UiaHj-ZuHUPcQHXOVgjsRn-Mc/)に共有用URLを報告
+
+### 演習
+- http://am1tanaka.hatenablog.com/entry/2019/06/11/230541 を参考に、BGMと効果音が3種類鳴るようにしてみる
+
+### 参考URL
+- 音の切り取りなど
+  - https://mp3cut.net/ja/
+- [Unity Technologies Japan. クリックするだけで効果音を自動生成する「bfxr」](http://inter-high-blog.unity3d.jp/2017/08/09/bfxr/)
+  - [効果音作成ツールBfxr](http://www.bfxr.net/)
+
+### アニメーション作成
+- アニメーターを割り当てる
+- アニメーションクリップを作成
+- 場所、方向、大きさを変化させる
+- 状態遷移
+- 既存のアニメを利用する
 
 ## 時間が余ったら
 - 円や四角といったシンプルな形状を面白く見せるアニメーションを作成(10回目から移動)
