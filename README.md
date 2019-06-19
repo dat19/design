@@ -50,6 +50,7 @@
   - [効果音作成ツールBfxr](http://www.bfxr.net/)
 
 ### アニメーション作成
+- [作業手順](https://docs.google.com/document/d/1FHhysIfjtk0oBIitrfmcE7NBhBaijIVygOmLz5NjqLg/)
 - アニメーターを割り当てる
 - アニメーションクリップを作成
 - 場所、方向、大きさを変化させる
