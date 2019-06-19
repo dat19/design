@@ -34,6 +34,7 @@
 - プロジェクト名を`ensyu0619`、**3D**でUnityプロジェクトを作成
 - *Project*ウィンドウから、`Scenes`フォルダーの左の三角をクリックして開く
 - `SampleScene`をクリックして、`Audio`に名前を変更
+- ダイアログが表示されたら、*Reload*ボタンをクリック
 - [Ctrl]+[S]キーを押して保存
 - *File*メニューから*Save Project*を選択して、プロジェクトを保存
 - [UnityプロジェクトをGitHubに登録する手順](https://github.com/dat19/gp1/blob/master/github-unity.md)に従って、作成したプロジェクトをGitHubに登録
