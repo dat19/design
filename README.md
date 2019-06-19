@@ -55,6 +55,11 @@
 - 場所、方向、大きさを変化させる
 - 状態遷移
 - 既存のアニメを利用する
+- 参考
+  - [ひよこのたまご. 2Dアニメーションの作り方 Animation, Animator Controller【ひよこエッセンス】](https://hiyotama.hatenablog.com/entry/2015/05/06/103657)
+  - [Unity公式Animationチュートリアル](https://unity3d.com/jp/learn/tutorials/s/animation)
+
+
 
 ## 時間が余ったら
 - 円や四角といったシンプルな形状を面白く見せるアニメーションを作成(10回目から移動)
