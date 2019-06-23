@@ -20,13 +20,23 @@
 - [3dtextures.me CC0のPBRテクスチャー素材集](https://3dtextures.me/)
 - [cgbookcase.com CC0のテクスチャー](https://www.cgbookcase.com/)
 
+# 10回目(6/26)
+## 話題
+- [デジゲー博2019](http://digigame-expo.org/)
+  - 11/17(日) DATフェスタの次の週なので、DATフェスタの作品をそのまま展示できます
+
+## 予定
+- ProBuilderを使ったステージのデザイン(11回目から移動)
+- 時間があれば、これまでの総復習
+- 1週間ゲームジャムを想定したモック画面作り
+
 # 9回目(6/19)
 
 ## 話題
 - [NVIDIA. AIによる画像生成 GauGANのデモ](https://www.nvidia.com/en-us/research/ai-playground/)
   - https://www.youtube.com/watch?v=p5U4NgVGAwg
 
-## 予定
+## 内容
 ### 音の再生
 - BGMを2種類、効果音を3種類用意する
 
