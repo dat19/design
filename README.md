@@ -27,7 +27,7 @@
   - 11/17(日) DATフェスタの次の週なので、DATフェスタの作品をそのまま展示できます
 
 ## 予定
-- ProBuilderで小物や島を作る(11回目から移動)
+- ProBuilderで部屋や小物を作る(11回目から移動)
   - 手順 https://docs.google.com/document/d/1Iyt45r4wSlg3WVi6PBKxrEzwglLKjzleOtShflrAJiY/edit?usp=sharing
   - [Unity3D Japan. ProBuilderでモデリング入門](https://www.youtube.com/watch?v=IeUNvMAA84k)
     - 頂点カラーを使うには、ProBuilder用のシェーダーを設定する必要があるので注意！
