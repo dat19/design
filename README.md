@@ -8,6 +8,7 @@
 - https://tanakaedu.github.io/dat-works/index.html
 
 # 参考URL
+- [背景を切り取る](https://www.remove.bg/)
 - [コガネブログ. 【Unity】GitHub で公開されていて無料で使用できるおすすめのアセットを600個紹介](http://baba-s.hatenablog.com/entry/2019/01/15/080000)
 - https://opengameart.org/
 - http://pixelgameart.org/web/
