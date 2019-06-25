@@ -28,9 +28,9 @@
 
 ## 予定
 - ProBuilderで部屋や小物を作る(11回目から移動)
+  - [ProBuilderの準備、および、樽の作り方補足](https://docs.google.com/document/d/1sL49FHekN8Qi3ePJSAliMREXiH6oe88H_BjGsL5PAcw/)
   - [Unity3D Japan. ProBuilderでモデリング入門](https://www.youtube.com/watch?v=IeUNvMAA84k)
     - 頂点カラーを使うには、ProBuilder用のシェーダーを設定する必要があるので注意！
-  - 樽の手順 https://docs.google.com/document/d/1Iyt45r4wSlg3WVi6PBKxrEzwglLKjzleOtShflrAJiY/edit?usp=sharing
   - 当たり判定をつける
     - Mesh Collider
     - 動かすときはConvexを設定(当たり判定が大雑把になる代わりに動かせるようになる)
