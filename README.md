@@ -29,18 +29,15 @@
   - 学校は体験入学なので、出場する場合は学生主体で
 - [Weeyble. 1週間ゲームジャム追い込み＆打ち上げ会](https://weeyble-game.connpass.com/event/136707/)
 
-## 予定
+## 内容
 - 1週間ゲームジャム用の企画を考える / モック画面作成(8回目から移動)
 - [Unityでの操作、オブジェクトの作り方、動かし方、当たり判定](https://docs.google.com/document/d/11Pi1cHxEv9W4LgmaHWaMvzOstUx7Q7EToXM-wzKrGXQ/)
   - プレイヤーのキー操作
   - キャラクターの問題の起きにくい作り方
   - 動かし方
   - 当たり判定の考え方
-
-## 演習
-- unityroomに登録
-- WebGLビルドして、仮アップロード
-- 限定公開して、アップロードしたURLを[こちら](https://docs.google.com/spreadsheets/d/1Ky6bU27vJy_jl4-Yu3UiaHj-ZuHUPcQHXOVgjsRn-Mc/edit?usp=sharing)に報告
+  - オブジェクトの消し方
+  - オブジェクトの生成
 
 
 # 10回目(6/26)
