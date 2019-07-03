@@ -21,10 +21,25 @@
 - [3dtextures.me CC0のPBRテクスチャー素材集](https://3dtextures.me/)
 - [cgbookcase.com CC0のテクスチャー](https://www.cgbookcase.com/)
 
-# 10回目(6/26)
+# 11回目(7/3)
 ## 話題
+- UnityのWebGLビルドができるようになりました！！
 - [デジゲー博2019](http://digigame-expo.org/)
   - 11/17(日) DATフェスタの次の週なので、DATフェスタの作品をそのまま展示できます
+  - 学校は体験入学なので、出場する場合は学生主体で
+
+## 予定
+- 1週間ゲームジャム用の企画を考える / モック画面作成(8回目から移動)
+- プレイヤーのキー操作
+- 当たり判定
+
+## 演習
+- unityroomに登録
+- WebGLビルドして、仮アップロード
+- 限定公開して、アップロードしたURLを[こちら](https://docs.google.com/spreadsheets/d/1Ky6bU27vJy_jl4-Yu3UiaHj-ZuHUPcQHXOVgjsRn-Mc/edit?usp=sharing)に報告
+
+
+# 10回目(6/26)
 
 ## 予定
 - ProBuilderで部屋や小物を作る(11回目から移動)
