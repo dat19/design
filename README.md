@@ -21,6 +21,15 @@
 - [3dtextures.me CC0のPBRテクスチャー素材集](https://3dtextures.me/)
 - [cgbookcase.com CC0のテクスチャー](https://www.cgbookcase.com/)
 
+# 12回目(7/10)
+## 話題
+- [ぐーるらいふ. unity1week「あつめる」 GOLD RUSHの実装について](http://ghoul-life.hatenablog.com/entry/2019/07/08/214036)
+- [初心者がUnityでなんかしちゃうぞBlog.  WebGLで画像つきツイートをしたい！](https://unity-senpai.hatenablog.com/entry/2019/07/07/130111)
+- [Unityインターハイブログ](http://inter-high-blog.unity3d.jp/2019/07/08/unity1week/)
+
+## 予定
+- 1週間ゲームジャム作品-モックの仕上げ、発表
+
 # 11回目(7/3)
 ## 話題
 - UnityのWebGLビルドができるようになりました！！
