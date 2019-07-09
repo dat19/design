@@ -30,6 +30,10 @@
 ## 予定
 - 1週間ゲームジャム作品-モックの仕上げ、発表
 
+## 発表準備
+- [こちら](https://docs.google.com/document/d/11rh1ojJnCJInI33XEk9xX3T_bHfKfoI_BH0foDVSGtM/edit?usp=sharing)に従ってYouTubeのライブイベントを作成して、配信の準備をする
+- 先週の金曜日にunityroomのURLを登録していなかったり、URLを変更していたら[こちら](https://docs.google.com/spreadsheets/d/1Ky6bU27vJy_jl4-Yu3UiaHj-ZuHUPcQHXOVgjsRn-Mc/edit?usp=sharing)に反映
+
 # 11回目(7/3)
 ## 話題
 - UnityのWebGLビルドができるようになりました！！
