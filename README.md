@@ -29,6 +29,7 @@
 
 ## 予定
 - 1週間ゲームジャム作品-モックの仕上げ、発表
+- [WebGLビルド手順](https://docs.google.com/document/d/11PWieJ1D7JsSghkhaKdmHpzVx6DAwXS3L4OAUTU1vNk/edit?usp=sharing)
 
 ## 発表準備
 - [こちら](https://docs.google.com/document/d/11rh1ojJnCJInI33XEk9xX3T_bHfKfoI_BH0foDVSGtM/edit?usp=sharing)に従ってYouTubeのライブイベントを作成して、配信の準備をする
