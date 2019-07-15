@@ -21,6 +21,28 @@
 - [3dtextures.me CC0のPBRテクスチャー素材集](https://3dtextures.me/)
 - [cgbookcase.com CC0のテクスチャー](https://www.cgbookcase.com/)
 
+# 13回目(7/17)
+## 予定
+- [作業手順](https://docs.google.com/document/d/1R32O134chW-wuqBovrR1xeXT0cIkpjFIcZo4Ncjtbjc/edit?usp=sharing)
+- インターネットで発表する
+  - マークダウンの練習
+    - https://dotinstall.com/lessons/basic_markdown_v2
+  - GitHub Pagesの利用
+    - https://pages.github.com/
+    - https://paiza.hatenablog.com/entry/2017/06/22/GitHub%E3%81%A0%E3%81%91%E3%81%A7%E8%B6%85%E9%AB%98%E6%A9%9F%E8%83%BD%E3%81%AA%E3%82%B9%E3%83%A9%E3%82%A4%E3%83%89%E8%B3%87%E6%96%99%E3%81%8C%E4%BD%9C%E3%82%8C%E3%82%8B%E3%80%8CGitPitch%E3%80%8D%E3%81%AE
+
+## 演習＆宿題：現在作成している個人作品用のリポジトリーを作成して、GitHub Pagesを有効にして、作品についてまとめる
+- 作成していなければ、作品用のリポジトリーを作成(作成済みなら次へ)
+- GitHub Pagesの設定をする
+- リポジトリーをクローンするか、更新する
+- README.mdに、以下の要領で紹介ページを作る
+  - 作品名
+  - スクリーンショット
+  - ルール(ゲームオーバー条件、プレイヤーができること)
+  - 操作方法
+  - 使用アセット一覧
+  - 著作者表示
+
 # 12回目(7/10)
 ## 話題
 - [ぐーるらいふ. unity1week「あつめる」 GOLD RUSHの実装について](http://ghoul-life.hatenablog.com/entry/2019/07/08/214036)
