@@ -21,11 +21,7 @@
 - [3dtextures.me CC0のPBRテクスチャー素材集](https://3dtextures.me/)
 - [cgbookcase.com CC0のテクスチャー](https://www.cgbookcase.com/)
 
-# 13回目(7/17)
-
-## 話題
-- [Ryosuke. はじめてのチーム開発、たアケイクさんと「REC」を制作しました](https://ryo620.org/2019/07/unity1week-game-jam-6/)
-
+# 14回目(7/24)
 
 ## 夏休みの課題
 ### 前期の復習
@@ -52,8 +48,16 @@
 - 自分で作成した個所の明示(どのファイルの何行目から何行目か)
 - 利用したアセット一覧
 
-
 ## 予定
+- [paiza開発日誌. GitHubだけで超高機能なスライド資料が作れる「GitPitch」の使い方を徹底解説！](https://paiza.hatenablog.com/entry/2017/06/22/GitHub%E3%81%A0%E3%81%91%E3%81%A7%E8%B6%85%E9%AB%98%E6%A9%9F%E8%83%BD%E3%81%AA%E3%82%B9%E3%83%A9%E3%82%A4%E3%83%89%E8%B3%87%E6%96%99%E3%81%8C%E4%BD%9C%E3%82%8C%E3%82%8B%E3%80%8CGitPitch%E3%80%8D%E3%81%AE)
+- 夏休み課題の先行開発
+
+# 13回目(7/17)
+
+## 話題
+- [Ryosuke. はじめてのチーム開発、たアケイクさんと「REC」を制作しました](https://ryo620.org/2019/07/unity1week-game-jam-6/)
+
+## 内容
 - [作業手順](https://docs.google.com/document/d/1R32O134chW-wuqBovrR1xeXT0cIkpjFIcZo4Ncjtbjc/edit?usp=sharing)
 - [作成したページ](https://github.com/dat19/md-rensyu)
 - インターネットで発表する
