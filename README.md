@@ -55,6 +55,7 @@
 
 ## 予定
 - [作業手順](https://docs.google.com/document/d/1R32O134chW-wuqBovrR1xeXT0cIkpjFIcZo4Ncjtbjc/edit?usp=sharing)
+- [作成したページ](https://github.com/dat19/md-rensyu)
 - インターネットで発表する
   - マークダウンの練習
     - https://dotinstall.com/lessons/basic_markdown_v2
