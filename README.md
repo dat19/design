@@ -24,7 +24,6 @@
 # 13回目(7/17)
 
 ## 話題
-- [1週間ゲームジャム結果](https://unityroom.com/unity1weeks/13/top)
 - [Ryosuke. はじめてのチーム開発、たアケイクさんと「REC」を制作しました](https://ryo620.org/2019/07/unity1week-game-jam-6/)
 
 
