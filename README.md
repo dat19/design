@@ -67,7 +67,7 @@ GitPitchを使って、夏休み課題として作成中、あるいは作成を
   - ルール（ゲームオーバー条件やクリア条件)
   - 利用アセットへのリンクリスト
 
-以上できたら、こちらにGitPitchへのリンクを貼り付ける。
+以上できたら、[こちら](https://docs.google.com/spreadsheets/d/1Ky6bU27vJy_jl4-Yu3UiaHj-ZuHUPcQHXOVgjsRn-Mc/edit?usp=sharing)にGitPitchへのリンクを貼り付ける。
 
 
 # 13回目(7/17)
