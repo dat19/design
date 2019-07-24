@@ -1,6 +1,16 @@
 # ゲームデザイン実習
 2019年度 デジタルアーツ東京 ゲームデザイン実習用リポジトリー。
 
+# 夏休み中の相談先
+- [Unityゲーム開発者ギルド](https://scrapbox.io/unity-game-dev-guild-pr/Unity%E3%82%B2%E3%83%BC%E3%83%A0%E9%96%8B%E7%99%BA%E8%80%85%E3%82%AE%E3%83%AB%E3%83%89)
+- [Unityお学びグループ](https://connect.unity.com/g/unityoxue-bigurupu?tab=discussion)
+- [Unityユーザー助け合い所](https://www.facebook.com/groups/unityuserj/)
+
+## 自習
+- [Udemy. ユニティちゃんが教える！初心者向けUnity講座](https://www.udemy.com/unity-chan-tutorial-01/)
+- [ドットインストール](https://dotinstall.com/search?q=unity&f=topbar)
+- https://learning.unity3d.jp/
+
 # 講義予定
 - [シラバス](syllabus.md)
 
