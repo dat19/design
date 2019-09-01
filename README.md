@@ -31,7 +31,7 @@
 - [3dtextures.me CC0のPBRテクスチャー素材集](https://3dtextures.me/)
 - [cgbookcase.com CC0のテクスチャー](https://www.cgbookcase.com/)
 
-# 15回目()
+# 15回目(9/4)
 ## 話題
 - [paiza開発日誌. 【21卒】いま始めれば内定が近づく！4つの就活準備](https://paiza.hatenablog.com/entry/2019/08/27/%E3%80%9021%E5%8D%92%E3%80%91%E3%81%84%E3%81%BE%E5%A7%8B%E3%82%81%E3%82%8C%E3%81%B0%E5%86%85%E5%AE%9A%E3%81%8C%E8%BF%91%E3%81%A5%E3%81%8F%EF%BC%814%E3%81%A4%E3%81%AE%E5%B0%B1%E6%B4%BB%E6%BA%96%E5%82%99)
 
@@ -42,6 +42,7 @@
   - 完成できなかった人、完成が遠い人は、どのようなものを作ろうとしたかを発表する準備
 - 発表資料
   - パワーポイント、GitPitch、Googleスライド、Keynoteなど、ツールはなんても良い
+  - [参考](https://twitter.com/abee2/status/1167764842817605635)
 
 
 # 14回目(7/24)
