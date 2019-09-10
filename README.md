@@ -26,6 +26,24 @@
 - [3dtextures.me CC0のPBRテクスチャー素材集](https://3dtextures.me/)
 - [cgbookcase.com CC0のテクスチャー](https://www.cgbookcase.com/)
 
+# 16回目(9/11)
+## 予定
+- 未発表者がいたら発表
+- 発表した課題作品や過去作品のとりまとめレポート
+- DATフェスタに向けた企画会議。とりまとめは金曜日に
+  - チームの方針
+  - 作品について検討開始
+  - シナリオや音声を入れられる企画の検討
+
+## 夏休み課題作品のまとめドキュメントの作成と提出
+- Googleドキュメントに、夏休み課題の以下の項目をまとめて、[ここ](https://docs.google.com/spreadsheets/d/1Ky6bU27vJy_jl4-Yu3UiaHj-ZuHUPcQHXOVgjsRn-Mc/edit?usp=sharing)にURLを提出
+  - 作品名
+  - スクリーンショット
+  - ゲーム概要
+  - 元にした作品があれば、URLや書籍名
+  - 使用アセットリスト(アセット名とURL)
+
+
 # 15回目(9/4)
 ## 話題
 - [paiza開発日誌. 【21卒】いま始めれば内定が近づく！4つの就活準備](https://paiza.hatenablog.com/entry/2019/08/27/%E3%80%9021%E5%8D%92%E3%80%91%E3%81%84%E3%81%BE%E5%A7%8B%E3%82%81%E3%82%8C%E3%81%B0%E5%86%85%E5%AE%9A%E3%81%8C%E8%BF%91%E3%81%A5%E3%81%8F%EF%BC%814%E3%81%A4%E3%81%AE%E5%B0%B1%E6%B4%BB%E6%BA%96%E5%82%99)
