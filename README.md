@@ -40,7 +40,7 @@
 - Googleドキュメントに、夏休み課題の以下の項目をまとめて、[ここ](https://docs.google.com/spreadsheets/d/1Ky6bU27vJy_jl4-Yu3UiaHj-ZuHUPcQHXOVgjsRn-Mc/edit?usp=sharing)にURLを提出
   - 作品名
   - スクリーンショット
-  - ゲーム概要
+  - ゲーム概要と操作説明
   - 元にした作品があれば、URLや書籍名
   - 使用アセットリスト(アセット名とURL)
 
