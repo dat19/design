@@ -36,6 +36,13 @@
   - 作品について検討開始
   - シナリオや音声を入れられる企画の検討
 
+## 発表準備
+- TwitCastingのデスクトップアプリをスタートメニュー > twitで検索して起動
+  - 未インストールの場合、[ここ](http://twitcasting.tv/tdl_download.php)を開いて、ダウンロードして実行 > 規約を承諾してインストールする
+  - Explorerを開いて、以下をバスにコピペして開いて、各項目を設定してください
+    - X:\2019年\ゲーム学科\Teacher\tanaka\twitcasting.txt
+
+
 ## 夏休み課題作品のまとめドキュメントの作成と提出
 - Googleドキュメントに、夏休み課題の以下の項目をまとめて、[ここ](https://docs.google.com/spreadsheets/d/1Ky6bU27vJy_jl4-Yu3UiaHj-ZuHUPcQHXOVgjsRn-Mc/edit?usp=sharing)にURLを提出
   - 作品名
