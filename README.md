@@ -26,8 +26,10 @@
 - [3dtextures.me CC0のPBRテクスチャー素材集](https://3dtextures.me/)
 - [cgbookcase.com CC0のテクスチャー](https://www.cgbookcase.com/)
 
+---
+
 # 16回目(9/11)
-## 予定
+## 内容
 - 先週の評価のGoogleスプレッドシートの共有を、「リンクを知っている全員が編集可」にしてください
 - 未発表者がいたら発表
 - 夏休み課題のまとめ
@@ -35,6 +37,15 @@
   - チームの方針
   - 作品について検討開始
   - シナリオや音声を入れられる企画の検討
+
+## DATフェスタ向け検討
+- [DATフェスタに向けたチーム編成検討](https://docs.google.com/document/d/10EAU8iiRUv41U8JBUBBV4Ll7xIWnNWE_iWpLp2VD04E/edit?usp=sharing) 
+- 今日
+  - チームと企画の仮決め
+  - Trelloでチーム作成
+- 後期1回目
+  - 休み中に検討した内容の発表
+  - チームと企画の正式決定
 
 ## 発表準備
 - TwitCastingのデスクトップアプリをスタートメニュー > twitで検索して起動
