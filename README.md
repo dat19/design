@@ -30,6 +30,7 @@
 ## 話題
 - [Unity道場 幕張スペシャル3 -Education編-](https://meetup.unity3d.jp/jp/events/1132)にLTで登壇してきました
   - [専門学校のゲームプログラマーコースにおけるUnity1週間ゲームジャムの活用事例](https://www.slideshare.net/UnityTechnologiesJapan/unity-3unity1)
+- [@odanny. 気持ちのいいジャンプを目指して](https://qiita.com/odanny/items/297f32a334c41410cc5d)
 
 ## DATフェスタまでのスケジュール
 - **10/2**, 4
