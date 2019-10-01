@@ -31,6 +31,14 @@
 - [Unity道場 幕張スペシャル3 -Education編-](https://meetup.unity3d.jp/jp/events/1132)にLTで登壇してきました
   - [専門学校のゲームプログラマーコースにおけるUnity1週間ゲームジャムの活用事例](https://www.slideshare.net/UnityTechnologiesJapan/unity-3unity1)
 
+## DATフェスタまでのスケジュール
+- **10/2**, 4
+- 10/9, 11
+- 10/16, 18
+- 10/23, 25
+- 10/30, 11/1
+- **11/8, 9 本番**
+
 ## 予定
 - DATフェスタ作品の企画会議
   - [DATフェスタに向けたチーム編成検討](https://docs.google.com/document/d/10EAU8iiRUv41U8JBUBBV4Ll7xIWnNWE_iWpLp2VD04E/edit?usp=sharing) 
