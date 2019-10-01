@@ -26,6 +26,45 @@
 - [3dtextures.me CC0のPBRテクスチャー素材集](https://3dtextures.me/)
 - [cgbookcase.com CC0のテクスチャー](https://www.cgbookcase.com/)
 
+# 後期1回目(10/2)
+## 話題
+- [Unity道場 幕張スペシャル3 -Education編-](https://meetup.unity3d.jp/jp/events/1132)にLTで登壇してきました
+  - [専門学校のゲームプログラマーコースにおけるUnity1週間ゲームジャムの活用事例](https://www.slideshare.net/UnityTechnologiesJapan/unity-3unity1)
+
+## 予定
+- DATフェスタ作品の企画会議
+  - [DATフェスタに向けたチーム編成検討](https://docs.google.com/document/d/10EAU8iiRUv41U8JBUBBV4Ll7xIWnNWE_iWpLp2VD04E/edit?usp=sharing) 
+- アイディアを出して、Trelloにメモ
+  - 実現可能性は今は考えずに、アイディアをとにかく出していく。無理そうなものは、あとで優先順位をつけて弾けばよい
+- 検討した内容の発表
+- チームと企画の正式決定
+
+## 決めること
+以下を決めて、Trelloに書く。
+
+- 対象プラットフォーム
+  - A602のPC
+  - WebGL
+  - Androidタブレット(1台はある。もう1～2台増えるかも？)
+  - ネット対応やゲームパッドなど、使いたい機能やハードウェアも提示
+- 解像度
+  - PCなら1920x1080
+  - WebGLやAndroid向けの場合は、それぞれの解像度を決める
+- ゲームのサムネイル(小さく手書きしたラフスケッチ)
+- ゲーム概要
+- 操作方法
+- ルール
+
+
+## 発表準備
+最後にチームごとに発表。
+
+- チームのうちの一人がTwitCastingを起動
+  - デスクトップアプリをスタートメニュー > twitで検索して起動
+    - 未インストールの場合、[ここ](http://twitcasting.tv/tdl_download.php)を開いて、ダウンロードして実行 > 規約を承諾してインストールする
+  - Explorerを開いて、以下をバスにコピペして開いて、各項目を設定してください
+    - X:\2019年\ゲーム学科\Teacher\tanaka\twitcasting.txt
+
 ---
 
 # 16回目(9/11)
