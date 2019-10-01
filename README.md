@@ -30,7 +30,16 @@
 ## 話題
 - [Unity道場 幕張スペシャル3 -Education編-](https://meetup.unity3d.jp/jp/events/1132)にLTで登壇してきました
   - [専門学校のゲームプログラマーコースにおけるUnity1週間ゲームジャムの活用事例](https://www.slideshare.net/UnityTechnologiesJapan/unity-3unity1)
+- [ハル研究所インターンシップ](https://www.hallab.co.jp/internship/detail/programmer.html)
+- [日本ゲーム大賞アマチュア部門](http://awards.cesa.or.jp/prize/amateur.html)
+- [日本ゲーム大賞U18部門](https://u18.awards.cesa.or.jp/news/20190915/)
+
+## 読み物
+- [gamebiz.jp. 【CEDEC 2019】「エフェクトは人生だ」…『シノアリス』『戦姫絶唱シンフォギアXD』を担うポケラボ・池田氏がエフェクト制作の魅力を熱弁！](https://gamebiz.jp/?p=248246)
+- [Sugimoto Chizuru. ゲームの仕様書を書こう](https://www.slideshare.net/ChizuruSugimoto/)
 - [@odanny. 気持ちのいいジャンプを目指して](https://qiita.com/odanny/items/297f32a334c41410cc5d)
+- [まちるだ / MESON. UIデザイナーでもできる！はじめてのUnity UIの教科書 ](https://note.mu/mathi0829lda/n/n0cd458dc00f6)
+
 
 ## DATフェスタまでのスケジュール
 - **10/2**, 4
@@ -51,7 +60,9 @@
 - 他の人の作業と関わる部分について、どのようなものが出来上がり、どのように組み込むのかを打ち合わせる
 - 理解が追い付かないメンバーについては、理解しているメンバーが指示をして、正しい成果物が出てくるように指示する
   - 一番理解度の高いメンバーは作業をせず、指示に徹することも検討する
+  - [かえるD. 初心者にありがちな、「仕事はもらったものを責任もって自分でどうにかする」だと実際はチームのボトルネックになってしまう。](https://twitter.com/kaerusanu/status/1174132639323672576)
 - 講義時間の最大の目的は、進捗確認と次の講義までの作業の打ち合わせ。作業は講義外に行う前提
+  - [ネット絵学. ゲーム会社若手デザイナーへ、在学時になにやってたかのアンケート](https://twitter.com/netegaku/status/1172303452619198464)
 - 仕様の変更に柔軟に対応できるようにすること
 
 ## 予定
