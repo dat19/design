@@ -26,6 +26,14 @@
 - [3dtextures.me CC0のPBRテクスチャー素材集](https://3dtextures.me/)
 - [cgbookcase.com CC0のテクスチャー](https://www.cgbookcase.com/)
 
+
+# 後期2回目(10/9)
+## 予定
+- はんぐらびぃの改良
+  - はんぐらびぃの動きをみんなで作る
+- DAT作業
+
+
 # 後期1回目(10/2)
 ## 話題
 - [Unity道場 幕張スペシャル3 -Education編-](https://meetup.unity3d.jp/jp/events/1132)にLTで登壇してきました
