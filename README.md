@@ -28,6 +28,10 @@
 
 
 # 後期2回目(10/9)
+## 話題
+-　12/7  [【1day】Unity Engine Challenge by mixi GROUP](https://mixi.connpass.com/event/150482/)
+
+
 ## 予定
 - はんぐらびぃの改良
   - はんぐらびぃの動きをみんなで作る
