@@ -29,6 +29,7 @@
 
 # 後期2回目(10/9)
 ## 話題
+- 今日中に!! [Unity AssetStoreまとめ. 【ハロウィン】バウチャー総額『250ドル+α』の山分けプレゼントイベント](http://www.asset-sale.net/entry/Halloween2019)
 -　12/7  [【1day】Unity Engine Challenge by mixi GROUP](https://mixi.connpass.com/event/150482/)
 
 
