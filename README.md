@@ -37,6 +37,10 @@
 ## 予定
 - はんぐらびぃの改良
   - はんぐらびぃの動きをみんなで作る
+  - [金曜日の復習](https://github.com/dat19/gp1#%E5%BE%8C%E6%9C%9F1%E9%80%B1%E7%9B%AE104)
+  - [作業メモ](https://docs.google.com/document/d/1X8rD25ABrdIkx3fgd50whMwLHDF-inGZNE1vte1tAeA/)
+  - VisualStudio Share Linkでコード開発
+    - X:\2019年\ゲーム学科\Teacher\tanaka\vs-sharelink.txt
 - DAT作業
 
 
