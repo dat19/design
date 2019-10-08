@@ -31,6 +31,7 @@
 ## 話題
 - 今日中に!! [Unity AssetStoreまとめ. 【ハロウィン】バウチャー総額『250ドル+α』の山分けプレゼントイベント](http://www.asset-sale.net/entry/Halloween2019)
 -　12/7  [【1day】Unity Engine Challenge by mixi GROUP](https://mixi.connpass.com/event/150482/)
+- [gamesindustry.biz. ［Unite 2019］実は3DCGアニメ作品だった「Hello World」。この作品をゲームエンジンUnityで再現することはできるのか？](https://jp.gamesindustry.biz/article/1909/19093002/)
 
 
 ## 予定
