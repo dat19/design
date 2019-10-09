@@ -26,6 +26,8 @@
 - [3dtextures.me CC0のPBRテクスチャー素材集](https://3dtextures.me/)
 - [cgbookcase.com CC0のテクスチャー](https://www.cgbookcase.com/)
 
+# DATフェスタ作業進捗メモ
+- [進捗メモ](https://docs.google.com/document/d/1GFMHG6rj6f2-9--Jz8HVYilQsmuUml8x7-pcSpAhQ8w/)
 
 # 後期2回目(10/9)
 ## 話題
