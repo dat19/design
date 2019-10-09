@@ -40,9 +40,12 @@
   - [金曜日の復習](https://github.com/dat19/gp1#%E5%BE%8C%E6%9C%9F1%E9%80%B1%E7%9B%AE104)
   - [作業メモ](https://docs.google.com/document/d/1X8rD25ABrdIkx3fgd50whMwLHDF-inGZNE1vte1tAeA/)
   - VisualStudio Share Linkでコード開発
-    - X:\2019年\ゲーム学科\Teacher\tanaka\vs-sharelink.txt
-- DAT作業
-
+    - X:\2019年\ゲーム学科\Teacher\tanaka\ をエクスプローラーで開く
+      - `hungravy-dat19-1009.zip`をコピーして、自分のPCのドキュメント > 自分のフォルダーに貼り付ける
+      - 貼り付けた`hungravy-dat19-1009.zip`を右クリックして、*7-Zip* > *ここに展開*を選択
+      - Unityで展開したフォルダーを開く
+    - [ここを右クリック](https://docs.google.com/document/d/1c3dBetv3anGAJldW0cCL02Yp3dt-gqhRxbf526TJasA/edit)して、新しいタブで開く
+    - *使い方* に従って、共有をする
 
 # 後期1回目(10/2)
 ## 話題
