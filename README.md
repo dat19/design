@@ -34,6 +34,11 @@
 - [gamesindustry.biz. ［Unite 2019］実は3DCGアニメ作品だった「Hello World」。この作品をゲームエンジンUnityで再現することはできるのか？](https://jp.gamesindustry.biz/article/1909/19093002/)
 
 
+
+## Unityでの簡単なデータやプログラムの受け渡し方
+- [手順](https://docs.google.com/document/d/1y9ep9-1s_yb3Y3pKc3qiu-2UcrwJ_8vYDcszmvwVYlI/)
+
+
 ## 予定
 - はんぐらびぃの改良
   - はんぐらびぃの動きをみんなで作る
