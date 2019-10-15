@@ -29,10 +29,31 @@
 # DATフェスタ作業進捗メモ
 - [進捗メモ](https://docs.google.com/document/d/1GFMHG6rj6f2-9--Jz8HVYilQsmuUml8x7-pcSpAhQ8w/)
 
+# 後期3回目(10/16)
+## 話題
+- [2019 ハロウィンイベント結果発表](http://www.asset-sale.net/entry/Halloween2019End)
+- [Unity Asset Store「ハロウィンコンテスト」開催中（10月31日まで）](http://assetstore.info/asset-store-halloween-contest/)
+-　12/7  [【1day】Unity Engine Challenge by mixi GROUP](https://mixi.connpass.com/event/150482/)
+
+## 予定
+- はんぶらびぃの改良：　距離によって、加速の仕方を変える
+  - [金曜日の復習](https://github.com/dat19/gp1#%E5%BE%8C%E6%9C%9F1%E9%80%B1%E7%9B%AE104)
+  - [作業メモ](https://docs.google.com/document/d/1X8rD25ABrdIkx3fgd50whMwLHDF-inGZNE1vte1tAeA/)
+  - 順番は新しくシャッフル
+  - VisualStudio Share Linkでコード開発
+    - X:\2019年\ゲーム学科\Teacher\tanaka\ をエクスプローラーで開く
+      - `hungravy-dat19-1009.zip`をコピーして、自分のPCのドキュメント > 自分のフォルダーに貼り付ける
+      - 貼り付けた`hungravy-dat19-1009.zip`を右クリックして、*7-Zip* > *ここに展開*を選択
+      - Unityで展開したフォルダーを開く
+    - [ここを右クリック](https://docs.google.com/document/d/1c3dBetv3anGAJldW0cCL02Yp3dt-gqhRxbf526TJasA/edit)して、新しいタブで開く
+    - *使い方* に従って、共有をする
+- DATフェスタ作品開発
+
+
+
 # 後期2回目(10/9)
 ## 話題
 - 今日中に!! [Unity AssetStoreまとめ. 【ハロウィン】バウチャー総額『250ドル+α』の山分けプレゼントイベント](http://www.asset-sale.net/entry/Halloween2019)
--　12/7  [【1day】Unity Engine Challenge by mixi GROUP](https://mixi.connpass.com/event/150482/)
 - [gamesindustry.biz. ［Unite 2019］実は3DCGアニメ作品だった「Hello World」。この作品をゲームエンジンUnityで再現することはできるのか？](https://jp.gamesindustry.biz/article/1909/19093002/)
 
 
