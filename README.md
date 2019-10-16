@@ -42,10 +42,10 @@
   - 順番は新しくシャッフル
   - VisualStudio Share Linkでコード開発
     - X:\2019年\ゲーム学科\Teacher\tanaka\ をエクスプローラーで開く
-      - `hungravy-dat19-1009.zip`をコピーして、自分のPCのドキュメント > 自分のフォルダーに貼り付ける
-      - 貼り付けた`hungravy-dat19-1009.zip`を右クリックして、*7-Zip* > *ここに展開*を選択
-      - Unityで展開したフォルダーを開く
-    - [ここを右クリック](https://docs.google.com/document/d/1c3dBetv3anGAJldW0cCL02Yp3dt-gqhRxbf526TJasA/edit)して、新しいタブで開く
+      - `hungravy-dat19-1011.zip`をコピーして、自分のPCのドキュメント > 自分のフォルダーに貼り付ける
+      - 貼り付けた`hungravy-dat19-1011.zip`を右クリックして、*7-Zip* > *ここに展開*を選択
+      - Unityで展開したフォルダーを開く(プロジェクト名は `hungravy-dat1910` )
+    - [ここを右クリック](https://docs.google.com/document/d/1c3dBetv3anGAJldW0cCL02Yp3dt-gqhRxbf526TJasA/)して、新しいタブで開く
     - *使い方* に従って、共有をする
 - DATフェスタ作品開発
 
