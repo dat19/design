@@ -33,7 +33,7 @@
 ## 話題
 - [2019 ハロウィンイベント結果発表](http://www.asset-sale.net/entry/Halloween2019End)
 - [Unity Asset Store「ハロウィンコンテスト」開催中（10月31日まで）](http://assetstore.info/asset-store-halloween-contest/)
--　12/7  [【1day】Unity Engine Challenge by mixi GROUP](https://mixi.connpass.com/event/150482/)
+- 12/7  [【1day】Unity Engine Challenge by mixi GROUP](https://mixi.connpass.com/event/150482/)
 
 ## 予定
 - はんぶらびぃの改良：　距離によって、加速の仕方を変える
