@@ -29,13 +29,36 @@
 # DATフェスタ作業進捗メモ
 - [進捗メモ](https://docs.google.com/document/d/1GFMHG6rj6f2-9--Jz8HVYilQsmuUml8x7-pcSpAhQ8w/)
 
+# 後期4回目(10/23)
+## DATフェスタまでのスケジュール
+- 10/2, 4
+- 10/9, 11
+- 10/16, 18
+- **10/23, 25**
+- 10/30, 11/1
+- **11/8, 9 本番**
+
+## 予定
+- 展示できる最低要件のまとめ
+  - 必要な素材、プログラム、作業をすべて洗い出す
+  - 担当を決める
+- 開発
+- チームごとに最低要件について発表
+
+## 発表準備
+- 情報を発表者のPCからアクセスできるようにしておく
+- 発表者のPCで、TwitCastingのデスクトップアプリをスタートメニュー > `tw`で検索して起動
+  - 未インストールの場合、[ここ](http://twitcasting.tv/tdl_download.php)を開いて、ダウンロードして実行 > 規約を承諾してインストールする
+  - Explorerを開いて、以下をバスにコピペして開いて、各項目を設定してください
+    - X:\2019年\ゲーム学科\Teacher\tanaka\twitcasting.txt
+
 # 後期3回目(10/16)
 ## 話題
 - [2019 ハロウィンイベント結果発表](http://www.asset-sale.net/entry/Halloween2019End)
 - [Unity Asset Store「ハロウィンコンテスト」開催中（10月31日まで）](http://assetstore.info/asset-store-halloween-contest/)
 - 12/7  [【1day】Unity Engine Challenge by mixi GROUP](https://mixi.connpass.com/event/150482/)
 
-## 予定
+## 内容
 - はんぶらびぃの改良：　距離によって、加速の仕方を変える
   - [金曜日の復習](https://github.com/dat19/gp1#%E5%BE%8C%E6%9C%9F1%E9%80%B1%E7%9B%AE104)
   - [作業メモ](https://docs.google.com/document/d/1X8rD25ABrdIkx3fgd50whMwLHDF-inGZNE1vte1tAeA/)
@@ -62,7 +85,7 @@
 - [手順](https://docs.google.com/document/d/1y9ep9-1s_yb3Y3pKc3qiu-2UcrwJ_8vYDcszmvwVYlI/)
 
 
-## 予定
+## 内容
 - はんぐらびぃの改良
   - はんぐらびぃの動きをみんなで作る
   - [金曜日の復習](https://github.com/dat19/gp1#%E5%BE%8C%E6%9C%9F1%E9%80%B1%E7%9B%AE104)
@@ -89,14 +112,6 @@
 - [@odanny. 気持ちのいいジャンプを目指して](https://qiita.com/odanny/items/297f32a334c41410cc5d)
 - [まちるだ / MESON. UIデザイナーでもできる！はじめてのUnity UIの教科書 ](https://note.mu/mathi0829lda/n/n0cd458dc00f6)
 
-
-## DATフェスタまでのスケジュール
-- **10/2**, 4
-- 10/9, 11
-- 10/16, 18
-- 10/23, 25
-- 10/30, 11/1
-- **11/8, 9 本番**
 
 ## DATフェスタに向けた作業の目的
 - **チームで開発するための最適な方法を各自が考えて、実践する**
