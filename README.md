@@ -31,6 +31,9 @@
 
 # 後期6回目(11/12)
 ## 話題
+- [クオリティの追求例](https://twitter.com/nal_ew/status/1191210885894639621)
+- [LookingGlassハッカソンの展示例](https://twitter.com/e__koma/status/1193857453223366656)
+- [シロフード. ◆第2回LookingGlassハッカソンについて思う事](https://sirohood.exp.jp/20191111-2959/)
 - [最小限の労力で最大限の効果を出す方法〜『ペルセポネ』ができるまで〜](https://madewithunity.jp/stories/persephone/)
 
 ## 予定
