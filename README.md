@@ -33,6 +33,11 @@
 ## 話題
 - [ゲームクリエイターズギルド](https://game.creators-guild.com/event/gamecreatorsguildexpo2019/)
 
+## 予定
+- Greening企画会議
+  - 開発リポジトリーの利用
+  - 指定のアカウントを利用
+
 # 後期6回目(11/12)
 ## 話題
 - [クオリティの追求例](https://twitter.com/nal_ew/status/1191210885894639621)
