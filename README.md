@@ -29,6 +29,10 @@
 # DATフェスタ作業進捗メモ
 - [進捗メモ](https://docs.google.com/document/d/1GFMHG6rj6f2-9--Jz8HVYilQsmuUml8x7-pcSpAhQ8w/)
 
+# 後期7回目(11/19)
+## 話題
+- [ゲームクリエイターズギルド](https://game.creators-guild.com/event/gamecreatorsguildexpo2019/)
+
 # 後期6回目(11/12)
 ## 話題
 - [クオリティの追求例](https://twitter.com/nal_ew/status/1191210885894639621)
