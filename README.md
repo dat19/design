@@ -29,6 +29,19 @@
 # DATフェスタ作業進捗メモ
 - [進捗メモ](https://docs.google.com/document/d/1GFMHG6rj6f2-9--Jz8HVYilQsmuUml8x7-pcSpAhQ8w/)
 
+# 後期8回目(11/27)
+## 予定
+- GreeningEx2019の開発
+  - GitHubでの開発フローのおさらい
+  - フォークしたリポジトリーを削除
+  - クローンしたフォルダーを削除
+  - こちらを参照して、もう一度、フォーク、クローン、リソースのコピーを行う
+- エフェクトの設定
+  - ポストプロセッシング
+  - ユニティちゃんシェーダー
+- 作業の分担と仕様の確認
+- 作業
+  
 # 後期7回目(11/20)
 ### 話題
 - [ゲームクリエイターズギルド](https://game.creators-guild.com/event/gamecreatorsguildexpo2019/)
@@ -37,7 +50,7 @@
 - [ダウンロードカードを製作するサービス conca](https://conca.cc/)
 - [Realtime CSG](http://www.asset-sale.net/entry/Realtime_CSG_1)
 
-### 予定
+### 内容
 - とりまとめドキュメントを作成して提出
 - ゲームクリエイターズギルド出展版の相談(特にSideSlideのエフェクト辺り)
 - エアホッケーのカーソル対応。以下を検索して、方法を検索
