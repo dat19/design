@@ -32,12 +32,13 @@
 # 後期8回目(11/27)
 ## 予定
 - GreeningEx2019の仕様検討
-  - ステージエディターについて
-  - プレイヤーについて
+  - [ステージエディターについて](https://github.com/dat19/GreeningEx2019/Documents/StageEditor.md)
+  - [プレイヤーについて](https://github.com/dat19/GreeningEx2019/Documents/Player.md)
   - 以上から、オブジェクトの作り方の注意点をまとめる
+    - [制作物リスト](https://trello.com/c/s5SmfdCS/20-%E4%BB%AE%E3%83%A2%E3%83%87%E3%83%AB%E3%80%81%E4%BB%AE%E3%82%B9%E3%83%86%E3%83%BC%E3%82%B8%E3%81%AE%E4%BD%9C%E6%88%90)
   - 担当を決めて、金曜日までにチャレンジしてくる
 - 以降、時間があれば
-  - GitHubでの開発フローのおさらい
+  - [GitHubでの開発フローのおさらい](https://github.com/dat19/GreeningEx2019/Documents/Setup.md)
     - フォークしたリポジトリーを削除
     - クローンしたフォルダーを削除
     - こちらを参照して、もう一度、フォーク、クローン、リソースのコピーを行う
@@ -45,7 +46,7 @@
     - ポストプロセッシング
     - ユニティちゃんシェーダー
 - 作業
-  
+
 # 後期7回目(11/20)
 ### 話題
 - [ゲームクリエイターズギルド](https://game.creators-guild.com/event/gamecreatorsguildexpo2019/)
@@ -235,7 +236,7 @@
 
 ## 予定
 - DATフェスタ作品の企画会議
-  - [DATフェスタに向けたチーム編成検討](https://docs.google.com/document/d/10EAU8iiRUv41U8JBUBBV4Ll7xIWnNWE_iWpLp2VD04E/edit?usp=sharing) 
+  - [DATフェスタに向けたチーム編成検討](https://docs.google.com/document/d/10EAU8iiRUv41U8JBUBBV4Ll7xIWnNWE_iWpLp2VD04E/edit?usp=sharing)
 - アイディアを出して、Trelloにメモ
   - 実現可能性は今は考えずに、アイディアをとにかく出していく。無理そうなものは、あとで優先順位をつけて弾けばよい
 - 検討した内容の発表
@@ -280,7 +281,7 @@
   - シナリオや音声を入れられる企画の検討
 
 ## DATフェスタ向け検討
-- [DATフェスタに向けたチーム編成検討](https://docs.google.com/document/d/10EAU8iiRUv41U8JBUBBV4Ll7xIWnNWE_iWpLp2VD04E/edit?usp=sharing) 
+- [DATフェスタに向けたチーム編成検討](https://docs.google.com/document/d/10EAU8iiRUv41U8JBUBBV4Ll7xIWnNWE_iWpLp2VD04E/edit?usp=sharing)
 - 今日
   - チームと企画の仮決め
   - Trelloでチーム作成
