@@ -39,8 +39,8 @@
 
 ## 予定
 - GreeningEx2019の仕様検討
-  - [ステージエディターについて](https://github.com/dat19/GreeningEx2019/Documents/StageEditor.md)
-  - [プレイヤーについて](https://github.com/dat19/GreeningEx2019/Documents/Player.md)
+  - [ステージエディターについて](https://github.com/dat19/GreeningEx2019/blob/master/Documents/StageEditor.md)
+  - [プレイヤーについて](https://github.com/dat19/GreeningEx2019/blob/master/Documents/Player.md)
   - 以上から、オブジェクトの作り方の注意点をまとめる
     - [制作物リスト](https://trello.com/c/s5SmfdCS/20-%E4%BB%AE%E3%83%A2%E3%83%87%E3%83%AB%E3%80%81%E4%BB%AE%E3%82%B9%E3%83%86%E3%83%BC%E3%82%B8%E3%81%AE%E4%BD%9C%E6%88%90)
   - 担当を決めて、金曜日までにチャレンジしてくる
