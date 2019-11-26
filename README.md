@@ -30,6 +30,13 @@
 - [進捗メモ](https://docs.google.com/document/d/1GFMHG6rj6f2-9--Jz8HVYilQsmuUml8x7-pcSpAhQ8w/)
 
 # 後期8回目(11/27)
+### 話題
+- [ゲームクリエイターズギルド](https://game.creators-guild.com/event/gamecreatorsguildexpo2019/)
+- [東京工科大学所属のゲーム制作チーム](https://twitter.com/littlebokkuri)
+- [東京工業大学 デジタル創作同好会traP](https://trap.jp/)
+- [ダウンロードカードを製作するサービス conca](https://conca.cc/)
+- [Realtime CSG](http://www.asset-sale.net/entry/Realtime_CSG_1)
+
 ## 予定
 - GreeningEx2019の仕様検討
   - [ステージエディターについて](https://github.com/dat19/GreeningEx2019/Documents/StageEditor.md)
