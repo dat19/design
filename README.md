@@ -38,6 +38,10 @@
 - [Realtime CSG](http://www.asset-sale.net/entry/Realtime_CSG_1)
 
 ## 予定
+- 開発の方針
+  - 開発の舞台となるステージを作成できるようにする
+  - ゲームの主体であるプレイヤーの開発に早期にとりかかる
+  - 以上ができたら、画面の見え方を調整してレイアウトを決定。そこまで出来たら、ゲーム全体の開発にとりかかる
 - GreeningEx2019の仕様検討
   - [ステージエディターについて](https://github.com/dat19/GreeningEx2019/blob/master/Documents/StageEditor.md)
   - [プレイヤーについて](https://github.com/dat19/GreeningEx2019/blob/master/Documents/Player.md)
