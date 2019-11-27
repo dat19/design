@@ -29,6 +29,9 @@
 # DATフェスタ作業進捗メモ
 - [進捗メモ](https://docs.google.com/document/d/1GFMHG6rj6f2-9--Jz8HVYilQsmuUml8x7-pcSpAhQ8w/)
 
+# GreeningEx2019リポジトリー
+- [GreeningEx2019](https://github.com/dat19/GreeningEx2019)
+
 # 後期8回目(11/27)
 ### 話題
 - [ゲームクリエイターズギルド](https://game.creators-guild.com/event/gamecreatorsguildexpo2019/)
