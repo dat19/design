@@ -52,7 +52,7 @@
     - [制作物リスト](https://trello.com/c/s5SmfdCS/20-%E4%BB%AE%E3%83%A2%E3%83%87%E3%83%AB%E3%80%81%E4%BB%AE%E3%82%B9%E3%83%86%E3%83%BC%E3%82%B8%E3%81%AE%E4%BD%9C%E6%88%90)
   - 担当を決めて、金曜日までにチャレンジしてくる
 - 以降、時間があれば
-  - [GitHubでの開発フローのおさらい](https://github.com/dat19/GreeningEx2019/Documents/Setup.md)
+  - [GitHubでの開発フローのおさらい](https://github.com/dat19/GreeningEx2019/blob/master/Documents/Setup.md)
     - フォークしたリポジトリーを削除
     - クローンしたフォルダーを削除
     - こちらを参照して、もう一度、フォーク、クローン、リソースのコピーを行う
