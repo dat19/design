@@ -33,6 +33,9 @@
 - [GreeningEx2019](https://github.com/dat19/GreeningEx2019)
 
 # 後期9回目(12/4)
+## 話題
+- [@Ryowaks. アニメーションのレイアウトの考え方のツイート](https://twitter.com/Ryowaks/status/1200317404309417984)
+
 ## 予定
 - プレイヤーの作成
   - アニメーターの作成
