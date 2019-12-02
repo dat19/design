@@ -51,14 +51,16 @@
   - カメラの設定
   - オブジェクトの大きさ合わせ
   - ポストプロセッシング
+    - [設定手順](http://am1tanaka.hatenablog.com/entry/2018/05/19/172121)
   - ユニティちゃんシェーダー
-
-ここから、作業の分担が可能になる。
-
+    - https://docs.google.com/document/d/1lD8fsvkjBoWN72q1q5dhIJ_qMnfHOo84OrZfiRaF0hA/
 - プレイヤーの作成
   - アニメーターの作成
   - 棒立ち、左右移動の実装
     - Inputを定義する
+
+## 時間があれば・・・
+- 作業の分担を決める
 - 担当割り振り
   - ステラ
   - 花の橋
