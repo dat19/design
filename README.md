@@ -55,6 +55,7 @@
   - オブジェクトの大きさ合わせ
   - ポストプロセッシング
     - [設定手順](http://am1tanaka.hatenablog.com/entry/2018/05/19/172121)
+    - 背景の星の設定: イメージはAlpha Is Transparent / Fadeにして、AlbedoとEmitのどちらにもテクスチャー設定
   - ユニティちゃんシェーダー
     - https://docs.google.com/document/d/1lD8fsvkjBoWN72q1q5dhIJ_qMnfHOo84OrZfiRaF0hA/
 - プレイヤーの作成
