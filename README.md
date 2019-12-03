@@ -31,6 +31,7 @@
 
 # プロジェクト関連
 - [GitHubの開発フロー](https://sketchboard.me/LBSAHzZ8ynEE)
+- [プロジェクトの更新手順](https://github.com/dat19/design/wiki/GreeningEx2019%E3%81%AE%E6%9B%B4%E6%96%B0%E6%89%8B%E9%A0%86)
 
 ## GreeningEx2019
 - [GreeningEx2019 GitHub](https://github.com/dat19/GreeningEx2019)
@@ -47,6 +48,7 @@
 
 ## 予定
 - プレイヤーのプレハブや仮ステージを追加したので、upstreamのプロジェクトを手元のプロジェクトにマージして更新する
+  - [プロジェクトの更新手順](https://github.com/dat19/design/wiki/GreeningEx2019%E3%81%AE%E6%9B%B4%E6%96%B0%E6%89%8B%E9%A0%86)
 - 絵作り
   - カメラの設定
     - 画角(Field of View)を決める
