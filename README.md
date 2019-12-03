@@ -52,7 +52,6 @@
     - 画角(Field of View)を決める
       - [キヤノン写真用語集. 画角](https://ptl.imagegateway.net/contents/original/glossary/%E7%94%BB%E8%A7%92.html
       - [テラシュールブログ. ](http://tsubakit1.hateblo.jp/entry/2018/09/10/002907)
-      - Y9, Z-40 / RotX10 / FOV15ぐらい?
   - オブジェクトの大きさ合わせ
   - ポストプロセッシング
     - [設定手順](http://am1tanaka.hatenablog.com/entry/2018/05/19/172121)
@@ -73,6 +72,10 @@
   - きのこ
   - 丸いの
   - 花のトランポリン
+
+## メモ
+- Y9, Z-40 / RotX10 / FOV15ぐらい?
+- Stella 0.75?
 
 
 # 後期8回目(11/27)
