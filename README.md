@@ -55,6 +55,9 @@
       - [キヤノン写真用語集. 画角](https://ptl.imagegateway.net/contents/original/glossary/%E7%94%BB%E8%A7%92.html
       - [テラシュールブログ. ](http://tsubakit1.hateblo.jp/entry/2018/09/10/002907)
   - オブジェクトの大きさ合わせ
+    - オブジェクトは原則として大きさ1を基準に調整
+    - 丸いのとツタは要検討
+    - 地面の奥行きを検討。仕掛けを通り抜けられるか？
   - ポストプロセッシング
     - [設定手順](http://am1tanaka.hatenablog.com/entry/2018/05/19/172121)
     - 背景の星の設定: イメージはAlpha Is Transparent / Fadeにして、AlbedoとEmitのどちらにもテクスチャー設定
