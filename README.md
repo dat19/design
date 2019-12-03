@@ -45,6 +45,7 @@
 # 後期9回目(12/4)
 ## 話題
 - [@Ryowaks. アニメーションのレイアウトの考え方のツイート](https://twitter.com/Ryowaks/status/1200317404309417984)
+- [tkm. 企画を元にゲームのUIを作るときの流れ](https://note.com/torinegi/n/n5beaca465b1b)
 
 ## 予定
 - プレイヤーのプレハブや仮ステージを追加したので、upstreamのプロジェクトを手元のプロジェクトにマージして更新する
