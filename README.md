@@ -65,21 +65,6 @@
     - 背景の星の設定: イメージはAlpha Is Transparent / Fadeにして、AlbedoとEmitのどちらにもテクスチャー設定
   - ユニティちゃんシェーダー
     - https://docs.google.com/document/d/1lD8fsvkjBoWN72q1q5dhIJ_qMnfHOo84OrZfiRaF0hA/
-- プレイヤーの作成
-  - アニメーターの作成
-  - 棒立ち、左右移動の実装
-    - Inputを定義する
-
-## 時間があれば・・・
-- 作業の分担を決める
-- 担当割り振り
-  - ステラ
-  - 花の橋
-  - たんぽぽ
-  - ツタ
-  - きのこ
-  - 丸いの
-  - 花のトランポリン
 
 ## メモ
 - Y9, Z-40 / RotX10 / FOV15ぐらい?
