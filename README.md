@@ -25,7 +25,7 @@
 - [cc0textures.com. CC0のPBRテクスチャー素材集](https://cc0textures.com/home)
 - [3dtextures.me CC0のPBRテクスチャー素材集](https://3dtextures.me/)
 - [cgbookcase.com CC0のテクスチャー](https://www.cgbookcase.com/)
-- [講義用共有フォルダーへの接続](.)
+- [講義用共有フォルダーへの接続](https://github.com/dat19/design/wiki/%E8%AC%9B%E7%BE%A9%E7%94%A8%E3%83%8D%E3%83%83%E3%83%88%E3%83%89%E3%83%A9%E3%82%A4%E3%83%96%E3%81%B8%E3%81%AE%E6%8E%A5%E7%B6%9A%E8%A8%AD%E5%AE%9A)
 
 
 # DATフェスタ作業進捗メモ
