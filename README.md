@@ -44,6 +44,10 @@
 - [HungraviyEx2019 Trello](https://trello.com/b/EMqUWKla/%E3%81%AF%E3%82%93%E3%81%90%E3%82%89%E3%81%B3%E3%81%83dat19)
 
 # 後期10回目(12/11)
+## 話題
+- [Unity1週間ゲームジャムミートアップ](https://meetup.unity3d.jp/jp/events/1191)
+  - 2020/1/18 12:00〜2020/1/18 16:00
+
 ## 予定
 - 金曜日に割り振った作業の回収
   - GitHubでコミットして、Pushする
