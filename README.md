@@ -56,6 +56,7 @@
   - 棒立ち、落下、左右移動、水まき
   - Inputを定義する
   - CharacterControllerによるキャラクター制御
+- [グラデーションシェーダー](http://am1tanaka.hatenablog.com/entry/2019/12/09/182503)
 
 - 金曜日に割り振った作業の回収
   - GitHubでコミットして、Pushする
