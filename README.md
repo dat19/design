@@ -48,16 +48,20 @@
 - [Unity1週間ゲームジャムミートアップ](https://meetup.unity3d.jp/jp/events/1191)
   - 2020/1/18 12:00〜2020/1/18 16:00
 
+## 作業メモ
+- [作業メモ](https://docs.google.com/document/d/1Grw28HblsbJ1_2ey0YdRl5NJcuvDVmYFDVVVUdByvJ0/)
+
 ## 予定
+- プレイヤーの作成
+  - 棒立ち、落下、左右移動、水まき
+  - Inputを定義する
+  - CharacterControllerによるキャラクター制御
+
 - 金曜日に割り振った作業の回収
   - GitHubでコミットして、Pushする
   - Branchメニューから、Create pull requestを選んで、dat19/masterにプルリクエストを送信
 - 未完成や修正点の確認と解説
 - 統合したものに全員で更新
-- プレイヤーの作成
-  - 棒立ち、落下、左右移動、水まき
-  - Inputを定義する
-  - CharacterControllerによるキャラクター制御
 
 
 ## 回収項目
