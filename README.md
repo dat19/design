@@ -43,6 +43,17 @@
 - [HungraviyEx2019 GitHub](https://github.com/dat19/HungraviyEx2019)
 - [HungraviyEx2019 Trello](https://trello.com/b/EMqUWKla/%E3%81%AF%E3%82%93%E3%81%90%E3%82%89%E3%81%B3%E3%81%83dat19)
 
+# 後期11回目(12/18)
+## 予定
+- 一度、クリーンアップを行う
+  - Unityを閉じておく
+  - Assets/PrivateResourcesフォルダーを削除
+  - upstream/masterブランチに更新
+  - PrivateResourcesフォルダーをコピーしなおす
+- プレイヤーの動きを作成
+- ステージ作成
+
+
 # 後期10回目(12/11)
 ## 話題
 - [Unity1週間ゲームジャムミートアップ](https://meetup.unity3d.jp/jp/events/1191)
