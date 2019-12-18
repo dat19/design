@@ -102,9 +102,21 @@
   - 動きがブレる    
 - 今日の作業
   - [タイトル画面のデザイン](https://trello.com/c/TWFgjZpD/)
-  - [たんぽぽがプレイヤーに触れても発動するのを直す](https://trello.com/c/T8j6YzFR/)
+    - 必要なもの
+      - コピーライト Copyright (C) 2019-2020 DAT GreeningEx Team
+      - バージョン Ver0.00 という文字を、タイトルの右下、或いは画面の右下。あまり目立たなくてよい
+      - 「Push [Z] or [X] key」 → 「New Game」と「Continue」
+        - 文字で表示
+        - ボタンではない
+        - 現在、選択している方の文字を明るく、そうでない方を暗くする。大きさを変えるのも良い
+    - Font
+      - [AR CHRISTY](https://fontzone.net/font-details/ar-christy)
+      - PrivateResourcesフォルダーの中に、`Fonts`という名前のフォルダーを作成
+      - 上記フォントをダウンロードして、作成したFontsフォルダー内に移動
+      - TextMeshProのアセットを作成
+      - 日本語は含まれないので、ASCIIで生成
+  - [たんぽぽがプレイヤーに触れても発動するのと、発動後、水をかけると綿毛を出すのが止まるのを直す](https://trello.com/c/T8j6YzFR/)
   - [ステージ選択画面の島が奇麗になるアニメの作成](https://trello.com/c/HTQBQdoU)
-
 
   ## 時間が余ったら
   - プレイヤーの動作についての解説
