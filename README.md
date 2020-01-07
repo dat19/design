@@ -68,16 +68,16 @@
 - 持ち時間　最大10分まで(短くても構わない)
 
 ## Greeningの目標
-1/8 システム完成予定。ステージの制作 > ほぼ完成。残りの作業やバグを洗い出す
-1/22 完成予定
-1/29 2年の卒業制作に向けた総まとめと準備
-2/5, 7で終了
+- 1/8 システム完成予定。ステージの制作 > ほぼ完成。残りの作業やバグを洗い出す
+- 1/22 完成予定
+- 1/29 2年の卒業制作に向けた総まとめと準備
+- 2/5, 7で終了
 
-- 現状確認
-  - [前回の様子](https://github.com/dat19/design#%E5%86%85%E5%AE%B9)
-  - 音の確認。効果音はほぼ探し直し
-  - [ステージ作成](https://github.com/dat19/GreeningEx2019/blob/master/Documents/HowToEditStage.md)
-    - [プロジェクトの更新](https://github.com/dat19/gp1#%E3%83%97%E3%83%AD%E3%82%B8%E3%82%A7%E3%82%AF%E3%83%88%E3%81%AE%E6%9B%B4%E6%96%B0%E3%81%AE%E5%89%8D%E3%81%AB)
+### 現状確認
+- [前回の様子](https://github.com/dat19/design#%E5%86%85%E5%AE%B9)
+- 音の確認。効果音はほぼ探し直し
+- [ステージ作成](https://github.com/dat19/GreeningEx2019/blob/master/Documents/HowToEditStage.md)
+  - [プロジェクトの更新](https://github.com/dat19/gp1#%E3%83%97%E3%83%AD%E3%82%B8%E3%82%A7%E3%82%AF%E3%83%88%E3%81%AE%E6%9B%B4%E6%96%B0%E3%81%AE%E5%89%8D%E3%81%AB)
 - スタッフクレジット表記の相談
 
 ## ポートフォリオ作成
