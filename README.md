@@ -74,7 +74,7 @@
 2/5, 7で終了
 
 - 現状確認
-  - [前回の様子](https://github.com/dat19/design#%E4%BA%88%E5%AE%9A)
+  - [前回の様子](https://github.com/dat19/design#%E5%86%85%E5%AE%B9)
   - 音の確認。効果音はほぼ探し直し
   - [ステージ作成](https://github.com/dat19/GreeningEx2019/blob/master/Documents/HowToEditStage.md)
 - スタッフクレジット表記の相談
