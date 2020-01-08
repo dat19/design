@@ -52,6 +52,12 @@
 - X:\2019年\ゲーム学科\Student\ゲームプログラム1年\GreeningEx2019 を開く
 - GreeningExeフォルダーをデスクトップなどにコピーしてから、中のGreeningEx2019.exeをダブルクリックして起動
 
+### 効果音の最終週
+- [SEのリスト](https://trello.com/c/uXcrhIHf/63-se%E5%86%8D%E5%8F%8E%E9%9B%86)
+- 不具合は[こちら](https://github.com/dat19/GreeningEx2019)にNew issueを作って書き込む
+- [スタッフクレジット表記の相談](https://docs.google.com/document/d/1PFBqRFqpQgoFrXS6HmB4NU7HENSnek2J_J0Pq97WNzE/edit?usp=sharing)
+
+
 ## 残りの期間でやりたいこと
 - GreeningEx2019を完成させて、2年生が制作するCDに同梱する
 - 今後のテーマについての調査(正月課題)
@@ -83,7 +89,6 @@
 - 音の確認。効果音はほぼ探し直し
 - [ステージ作成](https://github.com/dat19/GreeningEx2019/blob/master/Documents/HowToEditStage.md)
   - [プロジェクトの更新](https://github.com/dat19/gp1#%E3%83%97%E3%83%AD%E3%82%B8%E3%82%A7%E3%82%AF%E3%83%88%E3%81%AE%E6%9B%B4%E6%96%B0%E3%81%AE%E5%89%8D%E3%81%AB)
-- スタッフクレジット表記の相談
 
 ## ポートフォリオ作成
 - [paiza. ITエンジニアの就活準備編2: ポートフォリオ制作](https://paiza.jp/works/career/primer/career2)
