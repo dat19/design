@@ -84,6 +84,9 @@
 ## ポートフォリオ作成
 - [paiza. ITエンジニアの就活準備編2: ポートフォリオ制作](https://paiza.jp/works/career/primer/career2)
 
+## プロジェクトを丸ごと最新にする
+- [GitHubでフォークしたUnityプロジェクトを丸ごと最新にする](https://docs.google.com/document/d/1HlV70sEMS8G3eLAD6YMuIObY7hei7YdaXKObGV9EpYg/)
+
 
 # 後期11回目(12/18)
 
