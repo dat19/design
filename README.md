@@ -50,7 +50,7 @@
 
 ## GreeningEx2019実行ファイル
 - X:\2019年\ゲーム学科\Student\ゲームプログラム1年\GreeningEx2019 を開く
-- WinExeフォルダーをデスクトップなどにコピーしてから、中のGreeningEx2019.exeをダブルクリックして起動
+- GreeningExeフォルダーをデスクトップなどにコピーしてから、中のGreeningEx2019.exeをダブルクリックして起動
 
 ## 残りの期間でやりたいこと
 - GreeningEx2019を完成させて、2年生が制作するCDに同梱する
