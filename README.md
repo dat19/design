@@ -52,7 +52,7 @@
 - X:\2019年\ゲーム学科\Student\ゲームプログラム1年\GreeningEx2019 を開く
 - GreeningExeフォルダーをデスクトップなどにコピーしてから、中のGreeningEx2019.exeをダブルクリックして起動
 
-### 効果音の最終週
+### 効果音の再収集
 - [SEのリスト](https://trello.com/c/uXcrhIHf/63-se%E5%86%8D%E5%8F%8E%E9%9B%86)
 - 不具合は[こちら](https://github.com/dat19/GreeningEx2019)にNew issueを作って書き込む
 - [スタッフクレジット表記の相談](https://docs.google.com/document/d/1PFBqRFqpQgoFrXS6HmB4NU7HENSnek2J_J0Pq97WNzE/edit?usp=sharing)
