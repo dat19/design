@@ -63,6 +63,7 @@
     - [SEのリスト](https://trello.com/c/uXcrhIHf/63-se%E5%86%8D%E5%8F%8E%E9%9B%86)
   - 不具合は[こちら](https://github.com/dat19/GreeningEx2019)にNew issueを作って書き込む
   - [スタッフクレジット表記の相談](https://docs.google.com/document/d/1PFBqRFqpQgoFrXS6HmB4NU7HENSnek2J_J0Pq97WNzE/edit?usp=sharing)
+- 2時間ゲームジャム、および、日本ゲーム大賞アマチュア部門の企画検討
 
 ## Greeningの目標
 - 1/8 システム完成予定。ステージの制作 > ほぼ完成。残りの作業やバグを洗い出す
