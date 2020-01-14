@@ -43,6 +43,40 @@
 - [HungraviyEx2019 GitHub](https://github.com/dat19/HungraviyEx2019)
 - [HungraviyEx2019 Trello](https://trello.com/b/EMqUWKla/%E3%81%AF%E3%82%93%E3%81%90%E3%82%89%E3%81%B3%E3%81%83dat19)
 
+## 残りの期間でやりたいこと
+- GreeningEx2019を完成させて、2年生が制作するCDに同梱する
+- 今後のテーマについての調査(正月課題)
+- ポートフォリオWebページの作成
+- 1年生の総復習
+- 卒業制作に向けた企画会議
+- 2時間ゲームジャム
+
+# 後期13回目(1/15)
+## 予定
+- Webでポートフォリオを作成
+  - [paiza. ITエンジニアの就活準備編2: ポートフォリオ制作](https://paiza.jp/works/career/primer/career2)
+- Greeningの最新状況の確認
+  - X:\2019年\ゲーム学科\Student\ゲームプログラム1年\GreeningEx2019 を開く
+  - GreeningExeフォルダーをデスクトップなどにコピーしてから、中のGreeningEx2019.exeをダブルクリックして起動
+- Greening開発
+  - 効果音の再収集
+    - [SEのリスト](https://trello.com/c/uXcrhIHf/63-se%E5%86%8D%E5%8F%8E%E9%9B%86)
+  - 不具合は[こちら](https://github.com/dat19/GreeningEx2019)にNew issueを作って書き込む
+  - [スタッフクレジット表記の相談](https://docs.google.com/document/d/1PFBqRFqpQgoFrXS6HmB4NU7HENSnek2J_J0Pq97WNzE/edit?usp=sharing)
+
+## Greeningの目標
+- 1/8 システム完成予定。ステージの制作 > ほぼ完成。残りの作業やバグを洗い出す
+- 1/22 完成予定
+- 1/29 2年の卒業制作に向けた総まとめと準備
+- 2/5, 7で終了
+
+## プロジェクトを丸ごと最新にする
+- [GitHubでフォークしたUnityプロジェクトを丸ごと最新にする](https://docs.google.com/document/d/1HlV70sEMS8G3eLAD6YMuIObY7hei7YdaXKObGV9EpYg/)
+- [ステージ作成](https://github.com/dat19/GreeningEx2019/blob/master/Documents/HowToEditStage.md)
+
+
+
+
 # 後期12回目(1/8)
 ## 話題
 - [Unity1週間ゲームジャムミートアップ](https://meetup.unity3d.jp/jp/events/1191)
