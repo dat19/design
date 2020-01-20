@@ -54,6 +54,8 @@
 # 後期14回目(1/22)
 ## 話題
 - [どうなる、2021年卒就活（５）採用スケジュール予測](https://www3.nhk.or.jp/news/special/news_seminar/syukatsu/syukatsu280/?utm_int=detail_contents_special_004)
+- [最高のゲームエンジンはどれか？：Unreal Engineはあなたに向いているのか？](https://jp.gamesindustry.biz/article/2001/20012002/)
+- [最高のゲームエンジンはどれか？：Unityはあなたに向いているのか])(https://jp.gamesindustry.biz/article/2001/20012001/)
 
 ## 予定
 - Webでポートフォリオを作成
