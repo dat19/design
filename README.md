@@ -51,10 +51,18 @@
 - 卒業制作に向けた企画会議
 - 2時間ゲームジャム
 
-# 後期13回目(1/15)
+# 後期14回目(1/22)
+## 話題
+- [どうなる、2021年卒就活（５）採用スケジュール予測](https://www3.nhk.or.jp/news/special/news_seminar/syukatsu/syukatsu280/?utm_int=detail_contents_special_004)
+
 ## 予定
 - Webでポートフォリオを作成
   - [paiza. ITエンジニアの就活準備編2: ポートフォリオ制作](https://paiza.jp/works/career/primer/career2)
+- 2時間ゲームジャム、および、日本ゲーム大賞アマチュア部門の企画検討
+
+
+# 後期13回目(1/15)
+## 予定
 - Greeningの最新状況の確認
   - X:\2019年\ゲーム学科\Student\ゲームプログラム1年\GreeningEx2019 を開く
   - GreeningExeフォルダーをデスクトップなどにコピーしてから、中のGreeningEx2019.exeをダブルクリックして起動
