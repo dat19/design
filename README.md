@@ -62,6 +62,14 @@ Research Open Simulator](https://gundam-challenge.com/special/opensimulator/)
 ## 予定
 - Webでポートフォリオを作成
   - [paiza. ITエンジニアの就活準備編2: ポートフォリオ制作](https://paiza.jp/works/career/primer/career2)
+    - https://www.e-aidem.com/ch/jimocoro/entry/otakana01
+    - [paiza. HTML/CSS入門編](https://paiza.jp/works/html/primer)
+    - [paiza. ITエンジニアの就活準備編2: ポートフォリオ制作](https://paiza.jp/works/career/primer/career2)
+    - [GitHub PagesにHTMLでユーザーページを作成する](https://docs.google.com/document/d/1Og0Oxw_tvhBET3cDLhx9p9qD6tPGaL2TyzBSZmTTsOU/)
+  - 参考
+    - [Chomado’s Portfolio (ちょまど)](https://chomado.com/)
+    - http://kuma777.itigo.jp/
+    - https://yuutea335.hatenablog.com/
 - 2時間ゲームジャム、および、日本ゲーム大賞アマチュア部門の企画検討
 
 
