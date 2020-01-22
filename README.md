@@ -52,6 +52,9 @@
 - 2時間ゲームジャム
 
 # 後期14回目(1/22)
+## 作業メモ
+- [メモ](https://docs.google.com/document/d/1ulLt2KLXlqPHSIIKZuFN4WFPezHRxWwpjMT94TpYxDY/)
+
 ## 話題
 - [どうなる、2021年卒就活（５）採用スケジュール予測](https://www3.nhk.or.jp/news/special/news_seminar/syukatsu/syukatsu280/?utm_int=detail_contents_special_004)
 - [最高のゲームエンジンはどれか？：Unreal Engineはあなたに向いているのか？](https://jp.gamesindustry.biz/article/2001/20012002/)
