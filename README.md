@@ -56,6 +56,7 @@
 - 前回のポートフォリオの復習
   - 夏休み課題、DATフェスタ出展作品、それ以外の作品があればそれらも含めて、ポートフォリオページに掲載する
   - [ここを右クリックして、新しいタブで開いて、ポートフォリオのURLを記入](https://docs.google.com/spreadsheets/d/1Ky6bU27vJy_jl4-Yu3UiaHj-ZuHUPcQHXOVgjsRn-Mc/edit?usp=sharing)
+  - 参考 [GreeningEx2019の紹介ページ](https://dat18.github.io/works/GreeningEx2019Exe/)
 - Greeningの動作確認
 - 2時間ゲームジャム、および、日本ゲーム大賞アマチュア部門の企画検討
 
