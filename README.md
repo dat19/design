@@ -46,6 +46,7 @@
 # 後期16回目(2/5)
 ## 予定
 - ポートフォリオの完成
+  - 現状の確認
   - 夏休み課題、DATフェスタ出展作品、それ以外の作品があればそれらも含めて、ポートフォリオページに掲載する
   - まだURLを未報告の場合、[ここを右クリックして、新しいタブで開いて、ポートフォリオのURLを記入](https://docs.google.com/spreadsheets/d/1Ky6bU27vJy_jl4-Yu3UiaHj-ZuHUPcQHXOVgjsRn-Mc/edit?usp=sharing)
   - 参考 [GreeningEx2019の紹介ページ](https://dat18.github.io/works/GreeningEx2019Exe/)
