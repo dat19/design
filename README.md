@@ -43,16 +43,18 @@
 - [HungraviyEx2019 GitHub](https://github.com/dat19/HungraviyEx2019)
 - [HungraviyEx2019 Trello](https://trello.com/b/EMqUWKla/%E3%81%AF%E3%82%93%E3%81%90%E3%82%89%E3%81%B3%E3%81%83dat19)
 
-## 残りの期間でやりたいこと
-- GreeningEx2019を完成させて、2年生が制作するCDに同梱する
-- 今後のテーマについての調査(正月課題)
-- ポートフォリオWebページの作成
+# 後期16回目(2/5)
+## 予定
+- ポートフォリオの完成
+  - 夏休み課題、DATフェスタ出展作品、それ以外の作品があればそれらも含めて、ポートフォリオページに掲載する
+  - まだURLを未報告の場合、[ここを右クリックして、新しいタブで開いて、ポートフォリオのURLを記入](https://docs.google.com/spreadsheets/d/1Ky6bU27vJy_jl4-Yu3UiaHj-ZuHUPcQHXOVgjsRn-Mc/edit?usp=sharing)
+  - 参考 [GreeningEx2019の紹介ページ](https://dat18.github.io/works/GreeningEx2019Exe/)
 - 1年生の総復習
-- 卒業制作に向けた企画会議
-- 2時間ゲームジャム
+- 2時間ゲームジャム、および、日本ゲーム大賞アマチュア部門の企画検討、準備
+- GreeningEx2019の動作確認
 
 # 後期15回目(1/29)
-## 予定
+## 内容
 - 前回のポートフォリオの復習
   - 夏休み課題、DATフェスタ出展作品、それ以外の作品があればそれらも含めて、ポートフォリオページに掲載する
   - [ここを右クリックして、新しいタブで開いて、ポートフォリオのURLを記入](https://docs.google.com/spreadsheets/d/1Ky6bU27vJy_jl4-Yu3UiaHj-ZuHUPcQHXOVgjsRn-Mc/edit?usp=sharing)
@@ -72,7 +74,7 @@
 - [GUNDAM GLOBAL CHALLENGE
 Research Open Simulator](https://gundam-challenge.com/special/opensimulator/)
 
-## 予定
+## 内容
 - Webでポートフォリオを作成
   - [paiza. ITエンジニアの就活準備編2: ポートフォリオ制作](https://paiza.jp/works/career/primer/career2)
     - https://www.e-aidem.com/ch/jimocoro/entry/otakana01
