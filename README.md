@@ -44,6 +44,11 @@
 - [HungraviyEx2019 Trello](https://trello.com/b/EMqUWKla/%E3%81%AF%E3%82%93%E3%81%90%E3%82%89%E3%81%B3%E3%81%83dat19)
 
 # 後期16回目(2/5)
+## 話題
+- [日本ゲーム大賞　アマチュア部門](http://awards.cesa.or.jp/amateur/)
+  - 応募期間： 3/2～5/31
+- [paiza就活支援金とは ](https://paiza.jp/student/advice/student_paiza_travel_expense)
+
 ## 予定
 - ポートフォリオの完成
   - 現状の確認
