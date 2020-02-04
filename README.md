@@ -57,7 +57,7 @@
   - 参考 [GreeningEx2019の紹介ページ](https://dat18.github.io/works/GreeningEx2019Exe/)
 - 1年生の総復習
 - 2時間ゲームジャム、および、日本ゲーム大賞アマチュア部門の企画検討、準備
-- GreeningEx2019の動作確認
+  - 息抜き GreeningEx2019とはんぐらびぃEX2019の動作確認
 
 # 後期15回目(1/29)
 ## 内容
