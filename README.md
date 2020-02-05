@@ -54,7 +54,10 @@
   - 現状の確認
   - 夏休み課題、DATフェスタ出展作品、それ以外の作品があればそれらも含めて、ポートフォリオページに掲載する
   - まだURLを未報告の場合、[ここを右クリックして、新しいタブで開いて、ポートフォリオのURLを記入](https://docs.google.com/spreadsheets/d/1Ky6bU27vJy_jl4-Yu3UiaHj-ZuHUPcQHXOVgjsRn-Mc/edit?usp=sharing)
-  - 参考 [GreeningEx2019の紹介ページ](https://dat18.github.io/works/GreeningEx2019Exe/)
+  - 就職活動用の連絡先(メールアドレスやTwitter、Facebookなどのアカウント)を掲載しておくこと
+  - 参考
+    - [GreeningEx2019の紹介ページ](https://dat18.github.io/works/GreeningEx2019Exe/)
+    - http://kuma777.itigo.jp/
 - 1年生の総復習
 - 2時間ゲームジャム、および、日本ゲーム大賞アマチュア部門の企画検討、準備
   - 最低でも1か所、プログラミングについて紹介、解説できる内容を盛り込む
